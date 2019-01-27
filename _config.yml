@@ -12,7 +12,7 @@
 
 theme                    : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -108,22 +108,25 @@ analytics:
 author:
   name             : "Paudeville"
   avatar           : "/assets/images/logo-2 copy.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Paudeville is hosted by entertainment power couple Corbin and Julie Miller."
+  bio              : "Paudeville is a family-friendly variety podcast hosted by entertainment power couple Corbin and Julie Miller."
   location         : "Washington, D.C."
-  email            : "host@paudeville.com"
+  email            : 
   links:
-    - label: "Email"
+    - label: "Email: Corbin"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:host@paudeville.com
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/paudeville"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/paudeville"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/paudevilleshow"
+    - label: "Email: Julie"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:hostess@paudeville.com
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/paudeville"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   url: "https://facebook.com/paudeville"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/paudevilleshow"
 
 # Site Footer
 footer:
@@ -217,7 +220,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-seo-tag
 
 # mimic GitHub Pages with --safe
 whitelist:

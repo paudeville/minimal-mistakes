@@ -4,6 +4,8 @@ main:
     url: /
   - title: "Episodes"
     url: /episodes/
+  - title: "Musical Selections"
+    url: /songs/
   - title: "About"
     url: /about/
   - title: "Contact"

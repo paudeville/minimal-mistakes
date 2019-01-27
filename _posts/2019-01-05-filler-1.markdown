@@ -1,0 +1,10 @@
+---
+layout: posts
+title:  "Paudeville Episode 0.25"
+date:   2019-01-24 16:15:12 -0500
+share: true
+excerpt_separator: <!--more-->
+published: false
+---
+
+Ya see, the thing is, it's really easy to type of bunch of words that don't mean anything but will help me know how the layout is working out for now even though we are still building our content.

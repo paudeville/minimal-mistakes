@@ -1,0 +1,10 @@
+---
+layout: posts
+title:  "Paudeville Episode 0.5"
+date:   2019-01-24 16:15:12 -0500
+share: true
+excerpt_separator: <!--more-->
+published: false
+---
+
+You know, that's a really funny story and I'm happy to tell you more about it if you come back tomorrow and ask me again because I might forget if you don't and then you wouldn't ever be able to find out.

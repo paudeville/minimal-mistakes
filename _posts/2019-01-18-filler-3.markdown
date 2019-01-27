@@ -1,0 +1,10 @@
+---
+layout: posts
+title:  "Paudeville Episode 0.75"
+date:   2019-01-24 16:15:12 -0500
+share: true
+excerpt_separator: <!--more-->
+published: false
+---
+
+Again, the thing is, text! Text, text, text! This is what we need right now! And now is when we need it. Once we have it we will be able to really get things going and start making waves in the world.
