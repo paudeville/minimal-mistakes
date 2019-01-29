@@ -8,7 +8,7 @@ layout: null
 <atom:link href="{{ site.podcast_site }}/podcast-feed" rel="self" type="application/rss+xml" />
 <link>{{ site.podcast_site }}</link>
 <language>en-US</language>
-<copyright>Copyright (C) {{ date: %Y}} Paudeville. All Rights Reserved.</copyright>
+<copyright>Copyright (C) {{ site.time | date: "%Y"}} Paudeville. All Rights Reserved.</copyright>
 <itunes:subtitle>{{ site.podcast_subtitle }}</itunes:subtitle>
 <itunes:author>{{ site.podcast_author }}</itunes:author>
 <itunes:summary>{{ site.podcast_summary }}</itunes:summary>
