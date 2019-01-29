@@ -2,23 +2,25 @@
 layout: posts
 title:  "Paudeville Episode 1"
 date:   2019-01-24 16:15:12 -0500
+
+categories: podcast
+permalink: /episode-1/
+image: /assets/images/logo_2000x2000.jpg
+podcast_link: http://archive.org/download/paudeville-ep-1/paudeville-ep-1.mp3
+podcast_file_size: 17.7 MB
+podcast_duration: 1544
+podcast_duration_itunes: "25:44"
+podcast_length: 18534486
+podcast_guid: 
+
 share: true
 excerpt_separator: <!--more-->
 ---
 
-![Paudeville!]({{ site.url }}/{{ site.baseurl }}/assets/images/logo-2 copy.jpg)
+![Paudeville!]({{ site.url }}{{ site.baseurl }}/assets/images/logo-2 copy.jpg)
 
-{% raw %}
-<iframe 
-  frameborder="0" 
-  width="100%"     
-  height="60"
-  src="https://drive.google.com/file/d/1zrYgEKP_CXp8_H_lnQw2pKCKq5j4PPQ2/preview">
-</iframe>
-{% endraw %}
+http://archive.org/download/paudeville-ep-1/paudeville-ep-1.mp3
 
 This episode is brought to you by the government shutdown! Now, if only all 800,000 furloughed workers would also make a podcast the world would be a much better place.
 
 Join Corbin and Julie as they perform dramatic readings of dust jackets, answer relationship questions from the internet, and listen to a deeply stirring song written by Ruby Miller (4 years old).
-
-<!--more-->

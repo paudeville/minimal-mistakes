@@ -1,0 +1,60 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>{{ site.podcast_title }}</title>
+<atom:link href="{{ site.podcast_site }}/podcast-feed" rel="self" type="application/rss+xml" />
+<link>{{ site.podcast_site }}</link>
+<language>en-US</language>
+<copyright>Copyright (C) {{ date: %Y}} Paudeville. All Rights Reserved.</copyright>
+<itunes:subtitle>{{ site.podcast_subtitle }}</itunes:subtitle>
+<itunes:author>{{ site.podcast_author }}</itunes:author>
+<itunes:summary>{{ site.podcast_summary }}</itunes:summary>
+<description>{{ site.podcast_description }}</description>
+<itunes:owner>
+<itunes:name>{{ site.podcast_owner }}</itunes:name>
+<itunes:email>{{ site.podcast_email }}</itunes:email>
+</itunes:owner>
+<itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
+<itunes:image href="{{ site.podcast_site }}{{ site.podcast_album_art }}" />
+<itunes:category text="{{ site.podcast_category }}"/>
+<itunes:keywords>{{ site.podcast_keylist}}</itunes:keywords>
+<lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
+<managingEditor>{{ site.podcast_email }} ({{ site.podcast_owner }})</managingEditor>
+<image>
+<title>{{ site.podcast_title }}</title>
+<url>{{ site.podcast_site }}{{ site.podcast_album_art }}</url>
+<link>{{ site.podcast_site }}</link>
+</image>
+<docs>http://www.rssboard.org/rss-specification</docs>
+{% for ep in site.categories.podcast %}
+<item>
+<title>{{ ep.title }}</title>
+<itunes:summary>
+<![CDATA[{{ ep.excerpt | strip_html | truncatewords: 40 | expand_urls: site.podcast_site | cdata_escape }}]]>
+</itunes:summary>
+<description>
+<![CDATA[{{ ep.content | expand_urls: site.podcast_site | cdata_escape }}]]>
+</description>
+<link>{{ site.podcast_site }}{{ ep.url }}</link>
+<enclosure url="{{ ep.podcast_link }}" length="{{ ep.podcast_length }}" type="audio/mpeg" />
+<comments>{{ site.podcast_site }}{{ ep.url }}#comments</comments>
+<pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
+<itunes:author>{{ site.podcast_author }}</itunes:author>
+<itunes:duration>{{ ep.podcast_duration_itunes }}</itunes:duration>
+<itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
+<guid isPermaLink="{% if ep.podcast_guid %}false{% else %}true{% endif %}">{{ site.podcast_site }}{% if ep.podcast_guid %}/{{ ep.podcast_guid }}{% else %}{{ ep.url }}{% endif %}</guid>
+<itunes:subtitle><![CDATA[{{ ep.excerpt | strip_html | truncate: 252 | expand_urls: site.podcast_site | cdata_escape }}]]></itunes:subtitle>
+<itunes:image href="{{ site.podcast_site }}{{ site.podcast_album_art }}" />
+{% for category in ep.categories %}
+<category><![CDATA[{{ category | cdata_escape }}]]></category>
+{% endfor %}
+{% for category in ep.tags %}
+<category><![CDATA[{{ category | cdata_escape }}]]></category>
+{% endfor %}
+</item>
+{% endfor %}
+</channel>
+</rss>

@@ -288,3 +288,20 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+# Podcast Feed Info
+podcast_site: http://paudeville.github.io/minimal-mistakes
+podcast_url: http://paudeville.github.io/minimal-mistakes/podcast-feed
+podcast_album_art: /assets/images/logo_2000x2000.jpg
+podcast_title: Paudeville
+podcast_owner: Corbin Miller
+podcast_email: host@paudeville.com
+podcast_category: "Kids &amp; Family"
+podcast_subcategory_one: Comedy
+podcast_subcategory_two: 
+podcast_explicit: "no"
+podcast_author: Paudeville
+podcast_description: A family-friendly variety show hosted by entertainment power couple Corbin and Julie Miller.
+podcast_summary: Join Corbin and Julie for scripted and unscripted fun and silliness as well as musical performances.
+podcast_subtitle: A family-friendly variety show hosted by entertainment power couple Corbin and Julie Miller.
+podcast_keylist: "family-friendly,fun,games,music,variety,Vaudeville,wholesome"
