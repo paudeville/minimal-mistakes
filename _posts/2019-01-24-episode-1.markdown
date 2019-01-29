@@ -11,7 +11,7 @@ podcast_file_size: 17.7 MB
 podcast_duration: 1544
 podcast_duration_itunes: "25:44"
 podcast_length: 18534486
-podcast_guid: 
+podcast_guid: episode-1/
 
 share: true
 excerpt_separator: <!--more-->
