@@ -1,9 +1,0 @@
----
-layout: posts
-title:  "Paudeville Episode 2"
-date:   2019-01-31 09:00:00 -0500
-categories: paudeville
-published=false
----
-
-Another episode! Mostly just filler for now...

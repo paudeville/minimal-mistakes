@@ -6,7 +6,7 @@ share: true
 excerpt_separator: <!--more-->
 ---
 
-![Paudeville!](../assets/images/logo-2 copy.jpg)
+![Paudeville!]({{ site.url }}/{{ site.baseurl }}/assets/images/logo-2 copy.jpg)
 
 {% raw %}
 <iframe 
