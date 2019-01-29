@@ -19,8 +19,8 @@ excerpt_separator: <!--more-->
 
 ![Paudeville!]({{ site.url }}{{ site.baseurl }}/assets/images/logo-2 copy.jpg)
 
-http://archive.org/download/paudeville-ep-1/paudeville-ep-1.mp3
-
 This episode is brought to you by the government shutdown! Now, if only all 800,000 furloughed workers would also make a podcast the world would be a much better place.
 
 Join Corbin and Julie as they perform dramatic readings of dust jackets, answer relationship questions from the internet, and listen to a deeply stirring song written by Ruby Miller (4 years old).
+
+http://archive.org/download/paudeville-ep-1/paudeville-ep-1.mp3
