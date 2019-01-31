@@ -1,0 +1,26 @@
+---
+layout: posts
+title:  "Episode 2: Family Newsletter, First Impressions, Fishy Fishy"
+date:   2019-01-31 9:15:12 -0500
+
+categories: podcast
+permalink: /episode-2/
+image: /assets/images/logo_2000x2000.jpg
+podcast_link: http://archive.org/download/paudeville-ep-2/paudeville-ep-2.mp3
+podcast_file_size: 22.2 MB
+podcast_duration: 1939
+podcast_duration_itunes: "32:19"
+podcast_length: 23281353
+podcast_guid: episode-2/
+
+share: true
+excerpt_separator: <!--more-->
+---
+
+![Paudeville!]({{ site.url }}{{ site.baseurl }}/assets/images/logo-2 copy.jpg)
+
+This episode of Paudeville is brought to you by Newbro's Herpicide! We talk about "Paudeville" being inspired by the format of Vaudeville, but uninspired by the rampant sexism and racism of Vaudeville.
+
+Join Corbin and Julie as they read a section from their family newsletter, play a game of word association, discover Corbin has trouble with opposites, and listen to an inspiring song of the sea by Superhero Sandwich.
+
+http://archive.org/download/paudeville-ep-2/paudeville-ep-2.mp3
