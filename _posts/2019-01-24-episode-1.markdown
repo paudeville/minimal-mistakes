@@ -23,7 +23,7 @@ Join Corbin and Julie as they perform dramatic readings of dust jackets, answer 
 
 <iframe scrolling="no" frameborder="0" style="width:500px;height:180px;border:0;overflow:hidden;" width="500" height="180" src="https://app.stitcher.com/splayer/f/363388/58441561?el=0&refid=stpr"></iframe>
 
-<a href="https://play.google.com/music/m/Dx6mrcttwfwhgg5selxjuyv3jbm?t=Paudeville_Episode_1-Paudeville">
+<a href="https://itunes.apple.com/us/podcast/paudeville-episode-1/id1450915591?i=1000428685175&mt=2">
 	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_280x68.png' width='140px' height='34' alt='Listen on Apple Music'/>
 </a>
 <a href="https://play.google.com/music/m/Dx6mrcttwfwhgg5selxjuyv3jbm?t=Paudeville_Episode_1-Paudeville">
