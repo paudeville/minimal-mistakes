@@ -1,12 +1,12 @@
 ---
 layout: posts
-title:  "Paudeville Episode 1"
+title:  "Episode 1: Dust Jacket Theater, Love Bucket, The Stage"
 date:   2019-01-24 16:15:12 -0500
 
 categories: podcast
 permalink: /episode-1/
 image: /assets/images/logo_2000x2000.jpg
-podcast_link: http://archive.org/download/paudeville-ep-1/paudeville-ep-1.mp3
+podcast_link: http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-1/paudeville-ep-1.mp3
 podcast_file_size: 17.7 MB
 podcast_duration: 1544
 podcast_duration_itunes: "25:44"
@@ -17,10 +17,21 @@ share: true
 excerpt_separator: <!--more-->
 ---
 
-![Paudeville!]({{ site.url }}{{ site.baseurl }}/assets/images/logo-2 copy.jpg)
-
 This episode is brought to you by the government shutdown! Now, if only all 800,000 furloughed workers would also make a podcast the world would be a much better place.
 
 Join Corbin and Julie as they perform dramatic readings of dust jackets, answer relationship questions from the internet, and listen to a deeply stirring song written by Ruby Miller (4 years old).
 
-http://archive.org/download/paudeville-ep-1/paudeville-ep-1.mp3
+<iframe scrolling="no" frameborder="0" style="width:500px;height:180px;border:0;overflow:hidden;" width="500" height="180" src="https://app.stitcher.com/splayer/f/363388/58441561?el=0&refid=stpr"></iframe>
+
+<a href="https://play.google.com/music/m/Dx6mrcttwfwhgg5selxjuyv3jbm?t=Paudeville_Episode_1-Paudeville">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_280x68.png' width='140px' height='34' alt='Listen on Apple Music'/>
+</a>
+<a href="https://play.google.com/music/m/Dx6mrcttwfwhgg5selxjuyv3jbm?t=Paudeville_Episode_1-Paudeville">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/google_podcasts_badge.png' width='134px' height='34' alt='Listen on Google Podcasts'/>
+</a>
+<a href="https://open.spotify.com/episode/1c9EzVSJcE0eR2d7x8xyEC">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Spotify_Listen_Badge_RGB_280x68 copy.png' width='140px' height='34' alt='Listen on Google Podcasts'/>
+</a>
+<a href="https://www.stitcher.com/s?eid=58441561&refid=stpr">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Stitcher_Listen_Badge_Color_Dark_BG_114x34.png' width='114px' height='34' alt='Listen on Google Podcasts'/>
+</a>

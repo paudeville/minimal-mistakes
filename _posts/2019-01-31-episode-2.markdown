@@ -6,7 +6,7 @@ date:   2019-01-31 9:15:12 -0500
 categories: podcast
 permalink: /episode-2/
 image: /assets/images/logo_2000x2000.jpg
-podcast_link: http://archive.org/download/paudeville-ep-2/paudeville-ep-2.mp3
+podcast_link: http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-2/paudeville-ep-2.mp3
 podcast_file_size: 22.2 MB
 podcast_duration: 1939
 podcast_duration_itunes: "32:19"
@@ -17,10 +17,21 @@ share: true
 excerpt_separator: <!--more-->
 ---
 
-![Paudeville!]({{ site.url }}{{ site.baseurl }}/assets/images/logo-2 copy.jpg)
-
 This episode of Paudeville is brought to you by Newbro's Herpicide! We talk about "Paudeville" being inspired by the format of Vaudeville, but uninspired by the rampant sexism and racism of Vaudeville.
 
 Join Corbin and Julie as they read a section from their family newsletter, play a game of word association, discover Corbin has trouble with opposites, and listen to an inspiring song of the sea by Superhero Sandwich.
 
-http://archive.org/download/paudeville-ep-2/paudeville-ep-2.mp3
+<iframe scrolling="no" frameborder="0" style="width:500px;height:180px;border:0;overflow:hidden;" width="500" height="180" src="https://app.stitcher.com/splayer/f/363388/58497154?el=0&refid=stpr"></iframe>
+
+<a href="https://itunes.apple.com/us/podcast/episode-2-family-newsletter-first-impressions-fishy-fishy/id1450915591?i=1000428880076&mt=2&ls=1">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_280x68.png' width='140px' height='34' alt='Listen on Apple Music'/>
+</a>
+<a href="https://play.google.com/music/m/Igre2ostm2ltqiq4sabzzrl5jcy?t%3DPaudeville%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/google_podcasts_badge.png' width='134px' height='34' alt='Listen on Google Podcasts'/>
+</a>
+<a href="https://open.spotify.com/episode/4ISnU2eimFIexIUJwRO55j">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Spotify_Listen_Badge_RGB_280x68 copy.png' width='140px' height='34' alt='Listen on Google Podcasts'/>
+</a>
+<a href="https://www.stitcher.com/s?eid=58497154&refid=stpr">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Stitcher_Listen_Badge_Color_Dark_BG_114x34.png' width='114px' height='34' alt='Listen on Google Podcasts'/>
+</a>
