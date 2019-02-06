@@ -1,0 +1,40 @@
+---
+layout: posts
+title:  "Episode 3: Food Lovers, Animal Freakshow, Bookmarks"
+date:   2019-02-07 9:00:00 -0500
+
+categories: podcast
+permalink: /episode-3/
+image: /assets/images/logo_2000x2000.jpg
+podcast_link: http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-3/paudeville-ep-3.mp3
+podcast_file_size: 32.4 MB
+podcast_duration: 2832
+podcast_duration_itunes: "47:12"
+podcast_length: 33994169
+podcast_guid: episode-3/
+
+share: true
+excerpt_separator: <!--more-->
+---
+Join Corbin and Julie as they review a local buffet with a sharp critique of the service and glowing review of the food, discuss why people think vanilla is boring, introduce the Shoebill Stork and Goblin Shark to the Animal Freak Menagerie, and rock out to Bookmarks by the house band Superhero Sandwich. They also share stories of snow days, ash days, and the best snow and ash activities..."ashtivities", if you will.
+
+This episode is brought to you by Dr. Caldwell's Syrup Pepsin! Cure literally every possible ailment with this one simple medicine!
+
+Be freaked out by the Shoebill Stork at: https://www.youtube.com/watch?v=noF-CLNSUZU
+
+Haunt your dreams with the Goblin Shark at: https://www.youtube.com/watch?v=UTO5debfmsg
+
+<iframe scrolling="no" frameborder="0" style="width:100%;height:180px;border:0;overflow:hidden;" width="100%" height="180" src="https://app.stitcher.com/splayer/f/363388/58497154?el=0&refid=stpr"></iframe>
+
+<a href="https://itunes.apple.com/us/podcast/paudeville/id1450915591">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_280x68.png' width='140px' height='34' alt='Listen on Apple Music'/>
+</a>
+<a href="https://play.google.com/music/m/Igre2ostm2ltqiq4sabzzrl5jcy?t=Paudeville">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/google_podcasts_badge.png' width='134px' height='34' alt='Listen on Google Podcasts'/>
+</a>
+<a href="https://open.spotify.com/show/4q5RNUUtU4XFqsymP7dcTw">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Spotify_Listen_Badge_RGB_280x68 copy.png' width='140px' height='34' alt='Listen on Google Podcasts'/>
+</a>
+<a href="https://www.stitcher.com/s?fid=363388&refid=stpr">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Stitcher_Listen_Badge_Color_Dark_BG_114x34.png' width='114px' height='34' alt='Listen on Google Podcasts'/>
+</a>

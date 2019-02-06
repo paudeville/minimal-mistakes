@@ -21,7 +21,7 @@ This episode of Paudeville is brought to you by Newbro's Herpicide! We talk abou
 
 Join Corbin and Julie as they read a section from their family newsletter, play a game of word association, discover Corbin has trouble with opposites, and listen to an inspiring song of the sea by Superhero Sandwich.
 
-<iframe scrolling="no" frameborder="0" style="width:100%;height:180px;border:0;overflow:hidden;" width="500" height="180" src="https://app.stitcher.com/splayer/f/363388/58497154?el=0&refid=stpr"></iframe>
+<iframe scrolling="no" frameborder="0" style="width:100%;height:180px;border:0;overflow:hidden;" width="100%" height="180" src="https://app.stitcher.com/splayer/f/363388/58497154?el=0&refid=stpr"></iframe>
 
 <a href="https://itunes.apple.com/us/podcast/episode-2-family-newsletter-first-impressions-fishy-fishy/id1450915591?i=1000428880076&mt=2">
 	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_280x68.png' width='140px' height='34' alt='Listen on Apple Music'/>
