@@ -1,21 +1,21 @@
 ---
-layout: posts
-title:  "Episode 3: Food Lovers, Animal Freakshow, Bookmarks"
-date:   2019-02-07 9:00:00 -0500
+layout                  : posts
+title                   : "Episode 3: Food Lovers, Animal Freakshow, Bookmarks"
+date                    : 2019-02-07 9:00:00 -0500
 
-header:
-  image: "/assets/images/new-header copy.jpg"
-  og_image: /assets/images/logo_2000x2000.jpg
+header                  : 
+  image                 : "/assets/images/new-header copy.jpg"
+  og_image              : "/assets/images/logo_2000x2000.jpg"
 
-categories: podcast
-permalink: /episode-3/
-image: /assets/images/logo_2000x2000.jpg
-podcast_link: http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-3/paudeville-ep-3.mp3
-podcast_file_size: 32.4 MB
-podcast_duration: 2832
-podcast_duration_itunes: "47:12"
-podcast_length: 33994169
-podcast_guid: episode-3/
+categories              : podcast
+permalink               : /episode-3/
+image                   : "/assets/images/logo_2000x2000.jpg"
+podcast_link            : http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-3/paudeville-ep-3.mp3
+podcast_file_size       : 32.4 MB
+podcast_duration        : 2832
+podcast_duration_itunes : "47:12"
+podcast_length          : 33994169
+podcast_guid            : episode-3/
 
 share: true
 excerpt_separator: <!--more-->
