@@ -3,6 +3,9 @@ layout: posts
 title:  "Episode 3: Food Lovers, Animal Freakshow, Bookmarks"
 date:   2019-02-07 9:00:00 -0500
 
+header:
+  og_image: /assets/images/logo_2000x2000.jpg
+
 categories: podcast
 permalink: /episode-3/
 image: /assets/images/logo_2000x2000.jpg

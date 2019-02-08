@@ -3,6 +3,9 @@ layout: posts
 title:  "Episode 2: Family Newsletter, First Impressions, Fishy Fishy"
 date:   2019-01-31 9:15:12 -0500
 
+header:
+  og_image: /assets/images/logo_2000x2000.jpg
+
 categories: podcast
 permalink: /episode-2/
 image: /assets/images/logo_2000x2000.jpg
