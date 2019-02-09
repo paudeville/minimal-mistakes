@@ -1,8 +1,9 @@
 ---
-permalink: /about/
-header: 
-  image: "/assets/images/new-header copy.jpg"
-title: "About"
+title                   : "About"
+permalink               : /about/
+header                  : 
+  image                 : "/assets/images/new-header copy.jpg"
+  og_image              : "/assets/images/twitter-card.jpg"
 ---
 
 Paudeville is a family-friendly variety show podcast in the style of Vaudeville...get it? Get it!?!?

@@ -3,6 +3,10 @@ layout: posts
 title:  "Episode 1: Dust Jacket Theater, Love Bucket, The Stage"
 date:   2019-01-24 16:15:12 -0500
 
+header                  : 
+  image                 : "/assets/images/new-header copy.jpg"
+  og_image              : "/assets/images/twitter-card.jpg"
+
 categories: podcast
 permalink: /episode-1/
 image: /assets/images/logo_2000x2000.jpg

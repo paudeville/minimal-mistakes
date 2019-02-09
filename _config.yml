@@ -25,7 +25,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : paudeville/minimal-mistakes # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/logo-2 copy.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : " " # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Paudevile" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Paudeville" # overrides the website title displayed in the masthead, use " " for no title
 header                   :
   image                  : "/assets/images/new-header copy.jpg"
   og_image               : /assets/images/logo_2000x2000.jpg

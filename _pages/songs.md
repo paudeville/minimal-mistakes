@@ -1,10 +1,11 @@
 ---
-layout: single
-permalink: /songs/
-header: 
-  image: "/assets/images/new-header copy.jpg"
-title: "Musical Selections"
-author_profile: true
+layout                  : single
+title                   : "Musical Selections"
+permalink               : /songs/
+header                  : 
+  image                 : "/assets/images/new-header copy.jpg"
+  og_image              : "/assets/images/twitter-card.jpg"
+author_profile          : true
 ---
 
 {% raw %}

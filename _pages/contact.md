@@ -1,11 +1,12 @@
 ---
-layout: single
-permalink: /contact/
-header: 
-  image: "/assets/images/new-header copy.jpg"
-title: "Contact"
-author_profile: false
-classes: wide
+layout                  : single
+title                   : "Contact"
+permalink               : /contact/
+header                  : 
+  image                 : "/assets/images/new-header copy.jpg"
+  og_image              : "/assets/images/twitter-card.jpg"
+author_profile          : false
+classes                 : wide
 ---
 
 |-----------------------------------------------|-----------|-----------------------------------------------------------------------|
