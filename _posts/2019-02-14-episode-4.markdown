@@ -1,0 +1,41 @@
+---
+layout                  : posts
+title                   : "Episode 4: Love Bucket, Egghead Corner, The Pizza"
+date                    : 2019-02-14 9:00:00 -0500
+
+header                  : 
+  image                 : "/assets/images/new-header copy.jpg"
+  og_image              : "/assets/images/twitter-card-4.jpg"
+
+categories              : podcast
+permalink               : /episode-4/
+image                   : "/assets/images/logo_2000x2000.jpg"
+podcast_link            : http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-4/paudeville-ep-4.mp3
+podcast_file_size       : 28.2 MB
+podcast_duration        : 2468
+podcast_duration_itunes : "41:08"
+podcast_length          : 29619077
+podcast_guid            : episode-4/
+
+share                   : true
+---
+It's a very special Valentine's Day edition of Paudeville! Join Corbin and Julie as they reveal their supercouple origin story, expand their minds past boring old infinity, and listen to a song about the perfect survival food: pizza.
+
+This episode is brought to you by Aspirinol! The two-minute cold and flu cure for the whole family that's only 10% alcohol! Forget laughter, this is the best medicine!
+
+Learn more about all the infinities: <a href="https://youtu.be/23I5GS4JiDg">https://youtu.be/23I5GS4JiDg</a>
+
+<iframe scrolling="no" frameborder="0" style="width:100%;height:180px;border:0;overflow:hidden;" width="100%" height="180" src="https://app.stitcher.com/splayer/f/363388?el=1&refid=stpr"></iframe>
+
+<a href="https://itunes.apple.com/us/podcast/paudeville/id1450915591">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_280x68.png' width='140px' height='34' alt='Listen on Apple Music'/>
+</a>
+<a href="https://play.google.com/music/m/Igre2ostm2ltqiq4sabzzrl5jcy?t=Paudeville">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/google_podcasts_badge.png' width='134px' height='34' alt='Listen on Google Podcasts'/>
+</a>
+<a href="https://open.spotify.com/show/4q5RNUUtU4XFqsymP7dcTw">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Spotify_Listen_Badge_RGB_280x68 copy.png' width='140px' height='34' alt='Listen on Google Podcasts'/>
+</a>
+<a href="https://www.stitcher.com/s?fid=363388&refid=stpr">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Stitcher_Listen_Badge_Color_Dark_BG_114x34.png' width='114px' height='34' alt='Listen on Google Podcasts'/>
+</a>
