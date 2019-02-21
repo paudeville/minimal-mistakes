@@ -6,9 +6,6 @@ header                  :
   og_image              : "/assets/images/twitter-card.jpg"
 ---
 
-Paudeville is a family-friendly variety show podcast in the style of Vaudeville...get it? Get it!?!?
+Paudeville is a family newsletter in the form of a fun variety show podcast. This is mostly for Corbin and Julie Miller's friends and family to keep up with their goings on, but if you're a new friend you're more than welcome to enjoy as well!
 
-You should know:
-- Corbin and Julie are in love...
 ![Love!](../assets/images/miller_02.jpg)
-- They hope you like listening to their podcast, but if you don't, frankly, they'll still make it because it's fun.

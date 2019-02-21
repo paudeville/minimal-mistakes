@@ -19,11 +19,13 @@ podcast_guid            : episode-4/
 
 share                   : true
 ---
-It's a very special Valentine's Day edition of Paudeville! Join Corbin and Julie as they reveal their supercouple origin story, expand their minds past boring old infinity, and listen to a song about the perfect survival food: pizza.
+It's a very special Valentine's Day edition of Paudeville! Join Corbin and Julie as they reveal their supercouple origin story, expand their minds past boring old infinity, and premier a song about the perfect survival food: pizza.
 
 This episode is brought to you by Aspirinol! The two-minute cold and flu cure for the whole family that's only 10% alcohol! Forget laughter, this is the best medicine!
 
 Learn more about all the infinities: <a href="https://youtu.be/23I5GS4JiDg">https://youtu.be/23I5GS4JiDg</a>
+
+The musical selection this week is The Pizza by Superhero Sandwich (ft. Jacko and Lu): <a href="https://soundcloud.com/paudeville/superhero-sandwich-ft-jacko-and-lu-the-pizza">https://soundcloud.com/paudeville/superhero-sandwich-ft-jacko-and-lu-the-pizza</a>
 
 <iframe scrolling="no" frameborder="0" style="width:100%;height:180px;border:0;overflow:hidden;" width="100%" height="180" src="https://app.stitcher.com/splayer/f/363388?el=1&refid=stpr"></iframe>
 

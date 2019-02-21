@@ -12,9 +12,8 @@ layout: archive
 
 <h3 class="archive__subtitle">Other Recent Episodes</h3>
 
-{% for post in paginator.posts offset:1 %}
+{% for post in site.posts offset:1 limit:3 %}
   {% include archive-single.html %}
 {% endfor %}
 
 
-{% include paginator.html %}
