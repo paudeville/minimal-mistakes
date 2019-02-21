@@ -16,7 +16,7 @@ podcast_duration        : 2679
 podcast_duration_itunes : "44:39"
 podcast_length          : 32150343
 podcast_guid            : episode-5/
-published               : false
+published               : true
 share                   : true
 ---
 Join Corbin and Julie and they replace old wives' tales with something new, introduce two new freaks to their animal menagerie, and premier a song that started out as a lullaby (believe it or not!).
