@@ -19,7 +19,7 @@ podcast_guid            : episode-5/
 published               : true
 share                   : true
 ---
-Join Corbin and Julie and they replace old wives' tales with something new, introduce two new freaks to their animal menagerie, and premier a song that started out as a lullaby (believe it or not!).
+Join Corbin and Julie as they replace old wives' tales with something new, introduce two new freaks to their animal menagerie, and premier a song that started out as a lullaby (believe it or not!).
 
 This episode is brought to you by Scott's Emulsion and Shellenbergers Menth-o-lic Cough Wafers. This combo is especially good for "delicate girls and women" who want to stop that tickle for a nickel!
 
