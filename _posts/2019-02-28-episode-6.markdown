@@ -1,7 +1,7 @@
 ---
 layout                  : posts
 title                   : "Episode 6: Paudeville Musical Review"
-date                    : 2019-02-28 9:20:00 -0500
+date                    : 2019-02-28 8:00:00 -0500
 
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
@@ -34,8 +34,8 @@ You can stream and download all the musical selections at <a href="https://sound
 	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/google_podcasts_badge_140x34.png' width='140px' height='34' alt='Listen on Google Podcasts'/>
 </a>
 <a href="https://open.spotify.com/show/4q5RNUUtU4XFqsymP7dcTw">
-	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Spotify_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Google Podcasts'/>
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Spotify_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Spotify'/>
 </a>
 <a href="https://www.stitcher.com/s?fid=363388&refid=stpr">
-	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Stitcher_Listen_Badge_Color_Dark_BG_140x34.png' width='140px' height='34' alt='Listen on Google Podcasts'/>
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Stitcher_Listen_Badge_Color_Dark_BG_140x34.png' width='140px' height='34' alt='Listen on Stitcher'/>
 </a>
