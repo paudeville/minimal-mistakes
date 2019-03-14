@@ -1,7 +1,7 @@
 ---
 layout                  : posts
-title                   : "Episode 8: First Impressions, Tallman Jones #2, Snake Powers"
-date                    : 2019-03-14 8:30:00 -0500
+title                   : "Episode 8: First Impressions, Tallman Jones 2, Snake Powers"
+date                    : 2019-03-14 8:30:00
 
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
@@ -17,6 +17,7 @@ podcast_duration_itunes : "42:19"
 podcast_length          : 30539776
 podcast_guid            : episode-8/
 share                   : true
+published               : true 
 ---
 Join us as Julie makes her triumphant return after taking a couple weeks off to really enjoy her morning sickness. This week we discuss our plans for one of our favorite holidays (pie day!) and play our favorite word association game. We also get the next installment of our improvised serial, Tallman Jones (with foley work provided by Theo).
 
