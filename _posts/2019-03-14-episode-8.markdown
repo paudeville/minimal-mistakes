@@ -1,7 +1,7 @@
 ---
 layout                  : posts
 title                   : "Episode 8: First Impressions, Tallman Jones #2, Snake Powers"
-date                    : 2019-03-14 8:20:00 -0500
+date                    : 2019-03-14 8:30:00 -0500
 
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
