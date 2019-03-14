@@ -1,30 +1,30 @@
 ---
 layout                  : posts
-title                   : "Episode 7: Kid Jokes vs. Dad Jokes, Tallman Jones, Lavatiger"
-date                    : 2019-03-07 8:00:00 -0500
+title                   : "Episode 8: First Impressions, Tallman Jones #2, Snake Powers"
+date                    : 2019-03-14 8:20:00 -0500
 
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
-  og_image              : "/assets/images/twitter-card-7.jpg"
+  og_image              : "/assets/images/twitter-card-8.jpg"
 
 categories              : podcast
-permalink               : /episode-7/
+permalink               : /episode-8/
 image                   : "/assets/images/logo_2000x2000.jpg"
-podcast_link            : http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-7/paudeville-ep-7.mp3
-podcast_file_size       : 14.8 MB
-podcast_duration        : 1297
-podcast_duration_itunes : "21:37"
-podcast_length          : 15571260
-podcast_guid            : episode-7/
+podcast_link            : http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-8/paudeville-ep-8.mp3
+podcast_file_size       : 29.1 MB
+podcast_duration        : 2539
+podcast_duration_itunes : "42:19"
+podcast_length          : 30539776
+podcast_guid            : episode-8/
 share                   : true
 ---
-It's the second week of the Miller kid takeover! We pit kid jokes against dad jokes and start off on the grand adventure of Tallman Jones. Then we learn what it means to be a lavatiger.
+Join us as Julie makes her triumphant return after taking a couple weeks off to really enjoy her morning sickness. This week we discuss our plans for one of our favorite holidays (pie day!) and play our favorite word association game. We also get the next installment of our improvised serial, Tallman Jones (with foley work provided by Theo).
 
-This episode is brought to you by 7up...for babies!
+This episode brought to you by Swift's Premium, the most trusted name in meats!
 
 You can stream and download all our musical selections at <a href="https://soundcloud.com/paudeville">https://soundcloud.com/paudeville</a>
 
-<iframe scrolling="no" frameborder="0" style="width:100%;height:180px;border:0;overflow:hidden;" width="100%" height="180" src="https://app.stitcher.com/splayer/f/363388/59274647?el=0&refid=stpr"></iframe>
+<iframe scrolling="no" frameborder="0" style="width:100%;height:180px;border:0;overflow:hidden;" width="100%" height="180" src="https://app.stitcher.com/splayer/f/363388?el=1&refid=stpr"></iframe>
 
 <a href="https://itunes.apple.com/us/podcast/paudeville/id1450915591">
 	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Apple Music'/>
