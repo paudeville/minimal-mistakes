@@ -1,0 +1,43 @@
+---
+layout                  : posts
+title                   : "Episode 9: Twu Cwimes, Hink Pink, Legos Are Great"
+date                    : 2019-03-21 10:30:00
+
+header                  : 
+  image                 : "/assets/images/new-header copy.jpg"
+  og_image              : "/assets/images/twitter-card-9.jpg"
+
+categories              : podcast
+permalink               : /episode-9/
+image                   : "/assets/images/logo_2000x2000.jpg"
+podcast_link            : http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-9/paudeville-ep-9.mp3
+podcast_file_size       : 28.0 MB
+podcast_duration        : 2453
+podcast_duration_itunes : "40:53"
+podcast_length          : 29450240
+podcast_guid            : episode-9/
+share                   : true
+published               : true 
+---
+Corbin and Julie update us on their baby growing status and revel in the arrival of Spring. 
+We find out Ruby (4 years old) is extremely tough on crime as she spins tales of criminals getting what they deserve in our new segment Twu Cwimes.
+We get a grab bag of entertainment with Theo (7 years old) starting with Hink Pink then a resurgance of Kid Jokes vs. Dad Jokes and finally a sound effect competition.
+
+This episode brought to you by the most tender AND crispy cereal: Corn Flakes! Just add a bit of Bernard Dehydrated Water!
+
+This week's musical selection straight from our kids brains to your ears is "Legos Are Great". You can stream and download all our musical selections at <a href="https://soundcloud.com/paudeville">https://soundcloud.com/paudeville</a>
+
+<iframe scrolling="no" frameborder="0" style="width:100%;height:180px;border:0;overflow:hidden;" width="100%" height="180" src="https://app.stitcher.com/splayer/f/363388?el=1&refid=stpr"></iframe>
+
+<a href="https://itunes.apple.com/us/podcast/paudeville/id1450915591">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Apple Music'/>
+</a>
+<a href="https://play.google.com/music/m/Igre2ostm2ltqiq4sabzzrl5jcy?t=Paudeville">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/google_podcasts_badge_140x34.png' width='140px' height='34' alt='Listen on Google Podcasts'/>
+</a>
+<a href="https://open.spotify.com/show/4q5RNUUtU4XFqsymP7dcTw">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Spotify_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Spotify'/>
+</a>
+<a href="https://www.stitcher.com/s?fid=363388&refid=stpr">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Stitcher_Listen_Badge_Color_Dark_BG_140x34.png' width='140px' height='34' alt='Listen on Stitcher'/>
+</a>
