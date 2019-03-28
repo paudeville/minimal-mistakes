@@ -1,0 +1,43 @@
+---
+layout                  : posts
+title                   : "Episode 10: Dust Jacket Theatre, Tallman Jones 3, Sugar"
+date                    : 2019-03-28 09:30:00
+
+header                  : 
+  image                 : "/assets/images/new-header copy.jpg"
+  og_image              : "/assets/images/twitter-card-10.jpg"
+
+categories              : podcast
+permalink               : /episode-10/
+image                   : "/assets/images/logo_2000x2000.jpg"
+podcast_link            : http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-10/paudeville-ep-10.mp3
+podcast_file_size       : 33.0 MB
+podcast_duration        : 2890
+podcast_duration_itunes : "48:10"
+podcast_length          : 34697216
+podcast_guid            : episode-10/
+share                   : true
+published               : true 
+---
+Corbin and Julie have a milestone coming up and are celebrating with...a new podcast? Or probably just going to a concert...
+We rate each other's recent book picks after a dramatic reading of their dust jackets.
+We revisit the world of Tallman Jones for more of our improvised audio drama with 7-year-old sound effects.
+
+This episode brought to you by corn flakes, again! This time we're pairing our corn flakes with gas! You'll bless the day gas came to stay!
+
+This week's musical selection straight from our kids brains to your ears is "Sugar". You can stream and download all our musical selections at <a href="https://soundcloud.com/paudeville">https://soundcloud.com/paudeville</a>
+
+<iframe scrolling="no" frameborder="0" style="width:100%;height:180px;border:0;overflow:hidden;" width="100%" height="180" src="https://app.stitcher.com/splayer/f/363388?el=1&refid=stpr"></iframe>
+
+<a href="https://itunes.apple.com/us/podcast/paudeville/id1450915591">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Apple Music'/>
+</a>
+<a href="https://play.google.com/music/m/Igre2ostm2ltqiq4sabzzrl5jcy?t=Paudeville">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/google_podcasts_badge_140x34.png' width='140px' height='34' alt='Listen on Google Podcasts'/>
+</a>
+<a href="https://open.spotify.com/show/4q5RNUUtU4XFqsymP7dcTw">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Spotify_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Spotify'/>
+</a>
+<a href="https://www.stitcher.com/s?fid=363388&refid=stpr">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Stitcher_Listen_Badge_Color_Dark_BG_140x34.png' width='140px' height='34' alt='Listen on Stitcher'/>
+</a>
