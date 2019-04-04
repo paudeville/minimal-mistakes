@@ -1,6 +1,7 @@
 ---
 layout                  : posts
 title                   : "Episode 8: First Impressions, Tallman Jones 2, Snake Powers"
+rss_title               : "8: First Impressions, Tallman Jones 2, Snake Powers"
 date                    : 2019-03-14 8:30:00
 
 header                  : 

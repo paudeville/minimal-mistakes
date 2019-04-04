@@ -1,6 +1,7 @@
 ---
 layout                  : posts
 title                   : "Episode 3: Food Lovers, Animal Freakshow, Bookmarks"
+rss_title               : "3: Food Lovers, Animal Freakshow, Bookmarks"
 date                    : 2019-02-07 9:00:00 -0500
 
 header                  : 

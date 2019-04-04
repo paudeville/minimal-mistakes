@@ -1,6 +1,7 @@
 ---
 layout                  : posts
 title                   : "Episode 4: Love Bucket, Egghead Corner, The Pizza"
+rss_title               : "4: Love Bucket, Egghead Corner, The Pizza"
 date                    : 2019-02-14 9:00:00 -0500
 
 header                  : 

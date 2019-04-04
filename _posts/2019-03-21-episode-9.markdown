@@ -1,6 +1,7 @@
 ---
 layout                  : posts
 title                   : "Episode 9: Twu Cwimes, Hink Pink, Legos Are Great"
+rss_title               : "9: Twu Cwimes, Hink Pink, Legos Are Great"
 date                    : 2019-03-21 10:30:00
 
 header                  : 

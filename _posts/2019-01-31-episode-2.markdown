@@ -1,24 +1,21 @@
 ---
-layout: posts
-title:  "Episode 2: Family Newsletter, First Impressions, Fishy Fishy"
-date:   2019-01-31 9:15:12 -0500
-
+layout                  : posts
+title                   : "Episode 2: Family Newsletter, First Impressions, Fishy Fishy"
+rss_title               : "2: Family Newsletter, First Impressions, Fishy Fishy"
+date                    : 2019-01-31 9:15:12 -0500
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card.jpg"
-
-categories: podcast
-permalink: /episode-2/
-image: /assets/images/logo_2000x2000.jpg
-podcast_link: http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-2/paudeville-ep-2.mp3
-podcast_file_size: 22.2 MB
-podcast_duration: 1939
-podcast_duration_itunes: "32:19"
-podcast_length: 23281353
-podcast_guid: episode-2/
-
-share: true
-excerpt_separator: <!--more-->
+categories              : podcast
+permalink               : /episode-2/
+image                   : /assets/images/logo_2000x2000.jpg
+podcast_link            : http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-2/paudeville-ep-2.mp3
+podcast_file_size       : 22.2 MB
+podcast_duration        : 1939
+podcast_duration_itunes : "32:19"
+podcast_length          : 23281353
+podcast_guid            : episode-2/
+share                   : true
 ---
 
 This episode of Paudeville is brought to you by Newbro's Herpicide! We talk about "Paudeville" being inspired by the format of Vaudeville, but uninspired by the rampant sexism and racism of Vaudeville.

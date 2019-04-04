@@ -1,6 +1,7 @@
 ---
 layout                  : posts
 title                   : "Episode 7: Kid Jokes vs. Dad Jokes, Tallman Jones, Lavatiger"
+rss_title               : "7: Kid Jokes vs. Dad Jokes, Tallman Jones, Lavatiger"
 date                    : 2019-03-07 8:00:00 -0500
 
 header                  : 
