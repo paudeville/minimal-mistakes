@@ -20,7 +20,7 @@ podcast_guid            : episode-11/
 share                   : true
 published               : true 
 ---
-Corbin and Julie have their first very special, non-child guest this week! We welcome the eponymous Shelley from Shelly Has Opinions to discuss the difference between a good prank and a bad prank.
+Corbin and Julie have their first very special, non-child guest this week! We welcome the eponymous Shelley from Shelley Has Opinions (<a href="https://www.shelleyhasopinions.com/">https://www.shelleyhasopinions.com/</a>) to discuss the difference between a good prank and a bad prank.
 We get more gritty stories of criminals and their deserving punishments in another installment of Twu Cwimes.
 
 This episode brought to you by...corn flakes, again! Maybe for the last time...we'll never tell! Nothing is crispier and tenderer...
