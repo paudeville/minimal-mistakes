@@ -2,7 +2,7 @@
 layout                  : posts
 title                   : "Episode 13: Easter? I Hardly Know Her!, First Impressions, Fighting Geography"
 rss_title               : "13: Easter? I Hardly Know Her!, First Impressions, Fighting Geography"
-date                    : 2019-04-17 07:30:00
+date                    : 2019-04-18 07:30:00
 
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
