@@ -12,10 +12,10 @@ categories              : podcast
 permalink               : /episode-13/
 image                   : "/assets/images/logo_2000x2000.jpg"
 podcast_link            : http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-13/paudeville-ep-13.mp3
-podcast_file_size       : 46.3 MB
-podcast_duration        : 4054
-podcast_duration_itunes : "01:07:34"
-podcast_length          : 48653252
+podcast_file_size       : 29.2 MB
+podcast_duration        : 2553
+podcast_duration_itunes : "42:33"
+podcast_length          : 30647884
 podcast_guid            : episode-13/
 share                   : true
 published               : true 
