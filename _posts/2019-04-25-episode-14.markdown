@@ -1,7 +1,7 @@
 ---
 layout                  : posts
-title                   : "Episode 14: Not That Kind of Doctor | Twu Cwimes | Microphone"
-rss_title               : "14: Not That Kind of Doctor | Twu Cwimes | Microphone"
+title                   : "Episode 14: Not That Kind of Doctor, Twu Cwimes, Microphone"
+rss_title               : "14: Not That Kind of Doctor, Twu Cwimes, Microphone"
 date                    : 2019-04-25 09:30:00
 
 header                  : 
