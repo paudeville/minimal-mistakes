@@ -2,7 +2,7 @@
 layout                  : posts
 title                   : "Episode 15: New Wives' Tales (with Holly), 100-Foot Hotdog"
 rss_title               : "15: New Wives' Tales (with Holly), 100-Foot Hotdog"
-date                    : 2019-05-02 09:30:00
+date                    : 2019-05-02 07:30:00
 
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
@@ -21,6 +21,8 @@ share                   : true
 published               : true 
 ---
 This week we have our second ever guest and our first ever Holly!
+She helps us flesh out the legend of Paudeville and invite you all to become citizens...
+We punch up some old wives' tales with a shiny new veneer and elocution lessons to make: New Wives' Tales!
 
 This episode brought to you by Jelly Belly Beans! Are they jelly beans or baked beans? This ad will make it less clear!
 
