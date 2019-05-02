@@ -1,32 +1,35 @@
 ---
 layout                  : posts
-title                   : "Episode 15: New Wives' Tales (with Holly), 100-Foot Hotdog"
-rss_title               : "15: New Wives' Tales (with Holly), 100-Foot Hotdog"
-date                    : 2019-05-02 09:30:00
+title                   : "Episode 14: Not That Kind of Doctor, Twu Cwimes, Microphone"
+rss_title               : "14: Not That Kind of Doctor, Twu Cwimes, Microphone"
+date                    : 2019-04-25 09:30:00
 
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
-  og_image              : "/assets/images/twitter-card-15.jpg"
+  og_image              : "/assets/images/twitter-card-14.jpg"
 
 categories              : podcast
-permalink               : /episode-15/
+permalink               : /episode-14/
 image                   : "/assets/images/logo_2000x2000.jpg"
-podcast_link            : http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-15/paudeville-ep-15.mp3
-podcast_file_size       : 27.6 MB
-podcast_duration        : 2411
-podcast_duration_itunes : "40:11"
-podcast_length          : 28941670
-podcast_guid            : episode-15/
+podcast_link            : http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-14/paudeville-ep-14.mp3
+podcast_file_size       : 27.8 MB
+podcast_duration        : 2435
+podcast_duration_itunes : "40:35"
+podcast_length          : 29233196
+podcast_guid            : episode-14/
 share                   : true
 published               : true 
 ---
-This week we have our second ever guest and our first ever Holly!
+Catch up on this week's antics! 
+We play a new game where Corbin gives his non-expert medical advice. Do not take this advice!
+Ruby gives us some more gritty Twu Cwime tales.
+We also have a quick word from our resident Lukey boy and another new segment: Kids on the Street! 
 
-This episode brought to you by Jelly Belly Beans! Are they jelly beans or baked beans? This ad will make it less clear!
+This episode brought to you by Sylpho-Nathol! Keep your nose and mouth clean so you don't get paralyzed! Just snuff it!
 
-This week's musical selection is "100-Foot Hotdog". With words by the kids and singing by the parents! You can stream and download all our musical selections at <a href="https://soundcloud.com/paudeville">https://soundcloud.com/paudeville</a>
+This week's musical selection is another freestyle straight from Ruby's brain called "Microphone". It covers what we do on this podcast pretty well: "Just talk into the microphone and be silly!" You can stream and download all our musical selections at <a href="https://soundcloud.com/paudeville">https://soundcloud.com/paudeville</a>
 
-<iframe scrolling="no" frameborder="0" style="width:100%;height:180px;border:0;overflow:hidden;" width="100%" height="180" src="https://app.stitcher.com/splayer/f/363388?el=1&refid=stpr"></iframe>
+<iframe scrolling="no" frameborder="0" style="width:100%;height:180px;border:0;overflow:hidden;" width="100%" height="180" src="https://app.stitcher.com/splayer/f/363388/60271275?el=0&refid=stpr"></iframe>
 
 <a href="https://itunes.apple.com/us/podcast/paudeville/id1450915591">
 	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Apple Music'/>
