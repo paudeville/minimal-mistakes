@@ -1,0 +1,45 @@
+---
+layout                  : posts
+title                   : "Episode 19: Whachu Been Upto?, Tongue Twisters, Butterside"
+rss_title               : "19: Whachu Been Upto?, Tongue Twisters, Butterside"
+date                    : 2019-05-30 08:00:00
+
+header                  : 
+  image                 : "/assets/images/new-header copy.jpg"
+  og_image              : "/assets/images/twitter-card-19.jpg"
+
+categories              : podcast
+permalink               : /episode-19/
+image                   : "/assets/images/logo_2000x2000.jpg"
+podcast_link            : http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-19/paudeville-ep-19.mp3
+podcast_file_size       : 28.7 MB
+podcast_duration        : 2513
+podcast_duration_itunes : "41:53"
+podcast_length          : 30161066
+podcast_guid            : episode-19/
+share                   : true
+published               : true 
+---
+This week Julie left Corbin for 4 whole days and hilarity ensued! Join us to learn about movie theater massages and the finer points of Oogling, Ahgling, and Ohgling.
+Our game this week is a challenge of tongues! No, not that! It's tongue twisters! Corbin wrote a really good one and if you can inflict it upon your closest friends you might win your very own tongue twister!
+
+This episode brought to you by Scotch Cellulose Tape! Do you have trouble cutting off all of your bangs in one go? Just tape 'em down with some Scotch tape and get a manicured stranger to give a little snip!
+
+This week's musical selection is "Butterside". A song written many years ago about the myth of my brother. You can stream and download all our musical selections at <a href="https://soundcloud.com/paudeville">https://soundcloud.com/paudeville</a>
+
+<a href="https://twitter.com/paudeville">Twitter</a> | <a href="https://www.facebook.com/paudeville">Facebook</a> | <a href="https://www.instagram.com/paudevilleshow/">Instagram</a> | <a href="https://paudeville.com/">Website</a>
+
+<iframe scrolling="no" frameborder="0" style="width:100%;height:180px;border:0;overflow:hidden;" width="100%" height="180" src="https://app.stitcher.com/splayer/f/363388?el=1&refid=stpr"></iframe>
+
+<a href="https://itunes.apple.com/us/podcast/paudeville/id1450915591">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Apple Music'/>
+</a>
+<a href="https://play.google.com/music/m/Igre2ostm2ltqiq4sabzzrl5jcy?t=Paudeville">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/google_podcasts_badge_140x34.png' width='140px' height='34' alt='Listen on Google Podcasts'/>
+</a>
+<a href="https://open.spotify.com/show/4q5RNUUtU4XFqsymP7dcTw">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Spotify_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Spotify'/>
+</a>
+<a href="https://www.stitcher.com/s?fid=363388&refid=stpr">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Stitcher_Listen_Badge_Color_Dark_BG_140x34.png' width='140px' height='34' alt='Listen on Stitcher'/>
+</a>
