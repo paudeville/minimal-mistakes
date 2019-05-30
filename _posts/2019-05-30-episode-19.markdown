@@ -2,7 +2,7 @@
 layout                  : posts
 title                   : "Episode 19: Whachu Been Upto?, Tongue Twisters, Butterside"
 rss_title               : "19: Whachu Been Upto?, Tongue Twisters, Butterside"
-date                    : 2019-05-30 08:00:00
+date                    : 2019-05-30 07:00:00
 
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
