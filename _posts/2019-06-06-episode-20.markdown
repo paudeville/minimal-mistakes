@@ -1,31 +1,33 @@
 ---
 layout                  : posts
-title                   : "Episode 19: Whachu Been Upto?, Tongue Twisters, Butterside"
-rss_title               : "19: Whachu Been Upto?, Tongue Twisters, Butterside"
-date                    : 2019-05-30 07:00:00
+title                   : "Episode 20: Exercise, Shoe Shopping, Animal Freakshow, No. 2 Elephants"
+rss_title               : "20: Exercise, Shoe Shopping, Animal Freakshow, No. 2 Elephants"
+date                    : 2019-06-06 09:30:00
 
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
-  og_image              : "/assets/images/twitter-card-19.jpg"
+  og_image              : "/assets/images/twitter-card-20.jpg"
 
 categories              : podcast
-permalink               : /episode-19/
+permalink               : /episode-20/
 image                   : "/assets/images/logo_2000x2000.jpg"
-podcast_link            : http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-19/paudeville-ep-19.mp3
-podcast_file_size       : 28.7 MB
-podcast_duration        : 2513
-podcast_duration_itunes : "41:53"
-podcast_length          : 30161066
-podcast_guid            : episode-19/
+podcast_link            : http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-20/paudeville-ep-20.mp3
+podcast_file_size       : 32.7 MB
+podcast_duration        : 2863
+podcast_duration_itunes : "47:43"
+podcast_length          : 34365631
+podcast_guid            : episode-20/
 share                   : true
 published               : true 
 ---
-This week Julie left Corbin for 4 whole days and hilarity ensued! Join us to learn about movie theater massages and the finer points of Oogling, Ahgling, and Ohgling.
-Our game this week is a challenge of tongues! No, not that! It's tongue twisters! Corbin wrote a really good one and if you can inflict it upon your closest friends you might win your very own tongue twister!
+This week Julie gets swole by exercising (almost) everyday and Corbin gets new discount socks...mmm new socks. 
+Our game is the fourth installment of our Animal Freakshow! We pit the scorpionfly against the opossum. 
+Who will win in a battle of freakishness and bad pettery? You must listen to discover the truth! 
+We also add a new category for who would give the best super powers and we're really excited about it.
 
-This episode brought to you by Scotch Cellulose Tape! Do you have trouble cutting off all of your bangs in one go? Just tape 'em down with some Scotch tape and get a manicured stranger to give a little snip!
+This episode brought to you by Borden's Homogenized Milk. At least as good as any other milk! Just see how it makes you feeeeeel...
 
-This week's musical selection is "Butterside". A song written many years ago about the myth of my brother. You can stream and download all our musical selections at <a href="https://soundcloud.com/paudeville">https://soundcloud.com/paudeville</a>
+This week's musical selection is "No. 2 Elephants," a song born of a vacation dream by Julie's beautiful brain. You can stream and download all our musical selections at <a href="https://soundcloud.com/paudeville">https://soundcloud.com/paudeville</a>
 
 <a href="https://twitter.com/paudeville">Twitter</a> | <a href="https://www.facebook.com/paudeville">Facebook</a> | <a href="https://www.instagram.com/paudevilleshow/">Instagram</a> | <a href="https://paudeville.com/">Website</a>
 
