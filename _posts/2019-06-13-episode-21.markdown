@@ -1,0 +1,46 @@
+---
+layout                  : posts
+title                   : "Episode 21: Field Day, Costco, Name That Tune, Tommy Hobbes"
+rss_title               : "21: Field Day, Costco, Name That Tune, Tommy Hobbes"
+date                    : 2019-06-13 09:30:00
+
+header                  : 
+  image                 : "/assets/images/new-header copy.jpg"
+  og_image              : "/assets/images/twitter-card-21.jpg"
+
+categories              : podcast
+permalink               : /episode-21/
+image                   : "/assets/images/logo_2000x2000.jpg"
+podcast_link            : http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-21/paudeville-ep-21.mp3
+podcast_file_size       : 29.6 MB
+podcast_duration        : 2594
+podcast_duration_itunes : "43:14"
+podcast_length          : 31137523
+podcast_guid            : episode-21/
+share                   : true
+published               : true 
+---
+Julie went to a field day at Theo's school and as a Chatfield was over qualified.
+Corbin took the kids to Costco to eat food...twice. It was so good some of them literally could not stop eating.
+Our game this week was Name That Tune! Who will win this epic battle of the hmmms?
+
+This episode brought to you by Listerated Pepsin Gum. We get a run down from the experts about how to kiss a girl and talk about how we have failed in the past and can step up our game!
+
+This week's musical selection is "Tommy Hobbes of Malmesbury" for all you history of political thought fans out there! You can stream and download all our musical selections at <a href="https://soundcloud.com/paudeville">https://soundcloud.com/paudeville</a>
+
+<a href="https://twitter.com/paudeville">Twitter</a> | <a href="https://www.facebook.com/paudeville">Facebook</a> | <a href="https://www.instagram.com/paudevilleshow/">Instagram</a> | <a href="https://paudeville.com/">Website</a>
+
+<iframe scrolling="no" frameborder="0" style="width:100%;height:180px;border:0;overflow:hidden;" width="100%" height="180" src="https://app.stitcher.com/splayer/f/363388"></iframe>
+
+<a href="https://itunes.apple.com/us/podcast/paudeville/id1450915591">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Apple Music'/>
+</a>
+<a href="https://play.google.com/music/m/Igre2ostm2ltqiq4sabzzrl5jcy?t=Paudeville">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/google_podcasts_badge_140x34.png' width='140px' height='34' alt='Listen on Google Podcasts'/>
+</a>
+<a href="https://open.spotify.com/show/4q5RNUUtU4XFqsymP7dcTw">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Spotify_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Spotify'/>
+</a>
+<a href="https://www.stitcher.com/s?fid=363388&refid=stpr">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Stitcher_Listen_Badge_Color_Dark_BG_140x34.png' width='140px' height='34' alt='Listen on Stitcher'/>
+</a>
