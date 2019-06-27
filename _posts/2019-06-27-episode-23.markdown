@@ -1,0 +1,45 @@
+---
+layout                  : posts
+title                   : "Episode 23: BB Guns, What's in a Name?, 1st Impressions, Kinda Burpy"
+rss_title               : "23: BB Guns, What's in a Name?, 1st Impressions, Kinda Burpy"
+date                    : 2019-06-27 09:30:00
+
+header                  : 
+  image                 : "/assets/images/new-header copy.jpg"
+  og_image              : "/assets/images/twitter-card-23.jpg"
+
+categories              : podcast
+permalink               : /episode-23/
+image                   : "/assets/images/logo_2000x2000.jpg"
+podcast_link            : http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-23/paudeville-ep-23.mp3
+podcast_file_size       : 26.3 MB
+podcast_duration        : 2306
+podcast_duration_itunes : "38:26"
+podcast_length          : 27678388
+podcast_guid            : episode-23/
+share                   : true
+published               : true 
+---
+Content Warning: This episode has burps! Julie recounts her mysterious past and how BB guns are involved. 
+Corbin and Julie go through their discarded podcast titles and concepts then play their favorite word association game!
+
+This episode is brought to you by Westclox. These sentinels will guard your sleep like no other!
+
+This week's musical selection is "Kinda Burpy," with burps taken from the outtakes of this very podcast. You can stream and download all our musical selections at <a href="https://soundcloud.com/paudeville">https://soundcloud.com/paudeville</a>
+
+<a href="https://twitter.com/paudeville">Twitter</a> | <a href="https://www.facebook.com/paudeville">Facebook</a> | <a href="https://www.instagram.com/paudevilleshow/">Instagram</a> | <a href="https://paudeville.com/">Website</a>
+
+<iframe scrolling="no" frameborder="0" style="width:100%;height:180px;border:0;overflow:hidden;" width="100%" height="180" src="https://app.stitcher.com/splayer/f/363388"></iframe>
+
+<a href="https://itunes.apple.com/us/podcast/paudeville/id1450915591">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Apple Music'/>
+</a>
+<a href="https://play.google.com/music/m/Igre2ostm2ltqiq4sabzzrl5jcy?t=Paudeville">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/google_podcasts_badge_140x34.png' width='140px' height='34' alt='Listen on Google Podcasts'/>
+</a>
+<a href="https://open.spotify.com/show/4q5RNUUtU4XFqsymP7dcTw">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Spotify_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Spotify'/>
+</a>
+<a href="https://www.stitcher.com/s?fid=363388&refid=stpr">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Stitcher_Listen_Badge_Color_Dark_BG_140x34.png' width='140px' height='34' alt='Listen on Stitcher'/>
+</a>
