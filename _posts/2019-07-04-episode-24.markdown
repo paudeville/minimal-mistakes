@@ -1,0 +1,49 @@
+---
+layout                  : posts
+title                   : "Episode 24: Pwanks, Sanz Headbanz, Snuggle Smuggler"
+rss_title               : "24: Pwanks, Sanz Headbanz, Snuggle Smuggler"
+date                    : 2019-07-04 07:30:00
+
+header                  : 
+  image                 : "/assets/images/new-header copy.jpg"
+  og_image              : "/assets/images/twitter-card-24.jpg"
+
+categories              : podcast
+permalink               : /episode-24/
+image                   : "/assets/images/logo_2000x2000.jpg"
+podcast_link            : http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-24/paudeville-ep-24.mp3
+podcast_file_size       : 24.4 MB
+podcast_duration        : 2140
+podcast_duration_itunes : "35:40"
+podcast_length          : 25689738
+podcast_guid            : episode-24/
+share                   : true
+published               : true 
+---
+It's that time of year! Everybody's talking about it! It's one week past Paul Bunyan day! 
+The traditional day for setting off fireworks and other forms of merriment...right?
+Our 3-year-old talks about the ultimate prank he's going to play with his aunt and our 4-year-old accidentally pranks me better than ever.
+This week we have to guess who we are in our favorite new game: Sanz Headbanz! (it's like Headbanz but we don't bother with the headband)
+
+This episode is brought to you by Red River Lumber Company and Paul Bunyan. 
+Do you need new venetian blind slats in elegant California pine? 
+And whatever happened to ol' Babe? WE DON'T KNOW!! BABE PROBABLY GOT EATEN!!!
+
+This week's musical selection is "Snuggle Smuggler," and it's one long strained metaphor. You can stream and download all our musical selections at <a href="https://soundcloud.com/paudeville">https://soundcloud.com/paudeville</a>
+
+<a href="https://twitter.com/paudeville">Twitter</a> | <a href="https://www.facebook.com/paudeville">Facebook</a> | <a href="https://www.instagram.com/paudevilleshow/">Instagram</a> | <a href="https://paudeville.com/">Website</a>
+
+<iframe scrolling="no" frameborder="0" style="width:100%;height:180px;border:0;overflow:hidden;" width="100%" height="180" src="https://app.stitcher.com/splayer/f/363388"></iframe>
+
+<a href="https://itunes.apple.com/us/podcast/paudeville/id1450915591">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Apple Music'/>
+</a>
+<a href="https://play.google.com/music/m/Igre2ostm2ltqiq4sabzzrl5jcy?t=Paudeville">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/google_podcasts_badge_140x34.png' width='140px' height='34' alt='Listen on Google Podcasts'/>
+</a>
+<a href="https://open.spotify.com/show/4q5RNUUtU4XFqsymP7dcTw">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Spotify_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Spotify'/>
+</a>
+<a href="https://www.stitcher.com/s?fid=363388&refid=stpr">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Stitcher_Listen_Badge_Color_Dark_BG_140x34.png' width='140px' height='34' alt='Listen on Stitcher'/>
+</a>
