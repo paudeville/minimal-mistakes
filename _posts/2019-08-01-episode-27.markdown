@@ -20,7 +20,7 @@ podcast_guid            : episode-27/
 share                   : true
 published               : true 
 ---
-We're back for our first episode on our new biweekly schedule and we have be busy! Birthdays! Adventures in DC! Leftover food!
+We're back for our first episode on our new biweekly schedule and we have been busy! Birthdays! Adventures in DC! Leftover food!
 
 We bring our best contestants for this installment of Animal Freakshow! 
 We pit the Komodo dragon (see here: <a href="https://youtu.be/QaVkZ7BP-i8">https://youtu.be/QaVkZ7BP-i8</a>) against the shooter worm (yikes: <a href="https://www.youtube.com/watch?v=MmGz8gotCPs">https://www.youtube.com/watch?v=MmGz8gotCPs</a>)
