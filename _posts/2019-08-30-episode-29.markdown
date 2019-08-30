@@ -1,0 +1,45 @@
+---
+layout                  : posts
+title                   : "Episode 29: Categories, Twue Cwimes, Detective Gold 1, Mushroom Cup"
+rss_title               : "29: Categories, Twue Cwimes, Detective Gold 1, Mushroom Cup"
+date                    : 2019-08-30 07:30:00
+
+header                  : 
+  image                 : "/assets/images/new-header copy.jpg"
+  og_image              : "/assets/images/twitter-card-29.jpg"
+
+categories              : podcast
+permalink               : /episode-29/
+image                   : "/assets/images/logo_2000x2000.jpg"
+podcast_link            : http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-29/paudeville-ep-29.mp3
+podcast_file_size       : 32 MB
+podcast_duration        : 2802
+podcast_duration_itunes : "46:42"
+podcast_length          : 33629291
+podcast_guid            : episode-29/
+share                   : true
+published               : true 
+---
+We're headed back to school this week and we couldn't be more thrilled. We have a special back to school round of the categories game and even a school-themed Twue Cwimes.
+We're excited to release the first episode of our new audio drama "Detective Gold," complete with foley work by 7-year-old Theo.
+
+This episode is brought to you by the Morpilot Portable Oral Irrigator! It's a spa for your mouth...if a spa is something that will soak you will water and make your gums bleed if you use it wrong...
+
+The musical selection this week is "Mushroom Cup". It really just speaks for itself...You can stream and download all our musical selections at <a href="https://soundcloud.com/paudeville">https://soundcloud.com/paudeville</a>
+
+<a href="https://twitter.com/paudeville">Twitter</a> | <a href="https://www.facebook.com/paudeville">Facebook</a> | <a href="https://www.instagram.com/paudevilleshow/">Instagram</a> | <a href="https://paudeville.com/">Website</a>
+
+<iframe scrolling="no" frameborder="0" style="width:100%;height:180px;border:0;overflow:hidden;" width="100%" height="180" src="https://app.stitcher.com/splayer/f/363388"></iframe>
+
+<a href="https://itunes.apple.com/us/podcast/paudeville/id1450915591">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Apple Music'/>
+</a>
+<a href="https://play.google.com/music/m/Igre2ostm2ltqiq4sabzzrl5jcy?t=Paudeville">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/google_podcasts_badge_140x34.png' width='140px' height='34' alt='Listen on Google Podcasts'/>
+</a>
+<a href="https://open.spotify.com/show/4q5RNUUtU4XFqsymP7dcTw">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Spotify_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Spotify'/>
+</a>
+<a href="https://www.stitcher.com/s?fid=363388&refid=stpr">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Stitcher_Listen_Badge_Color_Dark_BG_140x34.png' width='140px' height='34' alt='Listen on Stitcher'/>
+</a>
