@@ -1,0 +1,52 @@
+---
+layout                  : posts
+title                   : "Episode 30: Animal Freakshow, Detective Gold 2, Fist of Doom"
+rss_title               : "30: Animal Freakshow, Detective Gold 2, Fist of Doom"
+date                    : 2019-09-13 06:30:00
+
+header                  : 
+  image                 : "/assets/images/new-header copy.jpg"
+  og_image              : "/assets/images/twitter-card-30.jpg"
+
+categories              : podcast
+permalink               : /episode-30/
+image                   : "/assets/images/logo_2000x2000.jpg"
+podcast_link            : http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-30/paudeville-ep-30.mp3
+podcast_file_size       : 30.9 MB
+podcast_duration        : 2701
+podcast_duration_itunes : "45:01"
+podcast_length          : 32425255
+podcast_guid            : episode-30/
+share                   : true
+published               : true 
+---
+We have an extra special three way Animal Freakshow battle this time! Seven-year-old Theo brings his best game in the form of the box jellyfish.
+He's up against a mind controlling flatworm and an adorably terrible mother, the quokka! Who will win? You gotta listen to find out!
+
+We're also back with the next installment of our new gumshoe audio drama: Detective Gold Chapter 2: Detective Too...? 
+Lookout here comes Detective Rose and little Hardy Gold to join the team...or will they!? We also check with Ruby for a few good ol' Twue Cwimes.
+
+This episode is brought to you by "Teddy Bears". They're all the RAGE!
+
+The musical selection this week is "Fist of Doom". It's not as scary as it sounds, we swear! You can stream and download all our musical selections at <a href="https://soundcloud.com/paudeville">https://soundcloud.com/paudeville</a>
+
+Box Jellyfish: <a href="https://youtu.be/7OZhnXCtuGY">https://youtu.be/7OZhnXCtuGY</a> and <a href="https://youtu.be/7WJCnC5ebf4">https://youtu.be/7WJCnC5ebf4</a>. 
+Zombie Snails: <a href="https://youtu.be/Go_LIz7kTok">https://youtu.be/Go_LIz7kTok</a>
+Quokka: <a href="https://en.wikipedia.org/wiki/Quokka">https://en.wikipedia.org/wiki/Quokka</a>
+
+<a href="https://twitter.com/paudeville">Twitter</a> | <a href="https://www.facebook.com/paudeville">Facebook</a> | <a href="https://www.instagram.com/paudevilleshow/">Instagram</a> | <a href="https://paudeville.com/">Website</a>
+
+<iframe scrolling="no" frameborder="0" style="width:100%;height:180px;border:0;overflow:hidden;" width="100%" height="180" src="https://app.stitcher.com/splayer/f/363388"></iframe>
+
+<a href="https://itunes.apple.com/us/podcast/paudeville/id1450915591">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Apple Music'/>
+</a>
+<a href="https://play.google.com/music/m/Igre2ostm2ltqiq4sabzzrl5jcy?t=Paudeville">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/google_podcasts_badge_140x34.png' width='140px' height='34' alt='Listen on Google Podcasts'/>
+</a>
+<a href="https://open.spotify.com/show/4q5RNUUtU4XFqsymP7dcTw">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Spotify_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Spotify'/>
+</a>
+<a href="https://www.stitcher.com/s?fid=363388&refid=stpr">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Stitcher_Listen_Badge_Color_Dark_BG_140x34.png' width='140px' height='34' alt='Listen on Stitcher'/>
+</a>
