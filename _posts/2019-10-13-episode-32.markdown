@@ -2,7 +2,7 @@
 layout                  : posts
 title                   : "Episode 32: We Hadda Baby!, True Crimes, Deep Valley Qs, Little Sadness"
 rss_title               : "32: We Hadda Baby!, True Crimes, Deep Valley Qs, Little Sadness"
-date                    : 2019-10-13 17:30:00
+date                    : 2019-10-13 7:30:00
 
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
