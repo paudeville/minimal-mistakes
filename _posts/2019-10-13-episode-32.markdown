@@ -1,0 +1,46 @@
+---
+layout                  : posts
+title                   : "Episode 32: We Hadda Baby!, True Crimes, Deep Valley Qs, Little Sadness"
+rss_title               : "32: We Hadda Baby!, True Crimes, Deep Valley Qs, Little Sadness"
+date                    : 2019-10-13 17:30:00
+
+header                  : 
+  image                 : "/assets/images/new-header copy.jpg"
+  og_image              : "/assets/images/twitter-card-32.jpg"
+
+categories              : podcast
+permalink               : /episode-32/
+image                   : "/assets/images/logo_2000x2000.jpg"
+podcast_link            : http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-32/paudeville-ep-32.mp3
+podcast_file_size       : 27.4 MB
+podcast_duration        : 2400
+podcast_duration_itunes : "40:00"
+podcast_length          : 28802176
+podcast_guid            : episode-32/
+share                   : true
+published               : true 
+---
+Did anything interesting happen in our family recently? Hmm, let me think...Oh yeah! We had a baby! Valley Opal joined us this past week and it's been a grand adventure. We'll tell you about it! Just listen!
+
+We also have some solid baby-related True Crimes from Ruby and, making her podcast debut, Deep Valley Questions with Baby Valley.
+
+It's only fitting that this week's ad involves a picture of a baby and it's even more fitting that it's an ad for our good friends over at Kellogg's Corn Flakes.
+
+The musical selection this week is "Little Sadness," inspired by the little cries we get from Valley throughout the day and night. You can stream and download all our musical selections at <a href="https://soundcloud.com/paudeville">https://soundcloud.com/paudeville</a>
+
+<a href="https://twitter.com/paudeville">Twitter</a> | <a href="https://www.facebook.com/paudeville">Facebook</a> | <a href="https://www.instagram.com/paudevilleshow/">Instagram</a> | <a href="https://paudeville.com/">Website</a>
+
+http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-32/paudeville-ep-32.mp3
+
+<a href="https://itunes.apple.com/us/podcast/paudeville/id1450915591">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Apple Music'/>
+</a>
+<a href="https://play.google.com/music/m/Igre2ostm2ltqiq4sabzzrl5jcy?t=Paudeville">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/google_podcasts_badge_140x34.png' width='140px' height='34' alt='Listen on Google Podcasts'/>
+</a>
+<a href="https://open.spotify.com/show/4q5RNUUtU4XFqsymP7dcTw">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Spotify_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Spotify'/>
+</a>
+<a href="https://www.stitcher.com/s?fid=363388&refid=stpr">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Stitcher_Listen_Badge_Color_Dark_BG_140x34.png' width='140px' height='34' alt='Listen on Stitcher'/>
+</a>
