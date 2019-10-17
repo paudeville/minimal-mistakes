@@ -28,7 +28,7 @@ Learn more about all the infinities: <a href="https://youtu.be/23I5GS4JiDg">http
 
 The musical selection this week is The Pizza by Superhero Sandwich (ft. Jacko and Lu): <a href="https://soundcloud.com/paudeville/superhero-sandwich-ft-jacko-and-lu-the-pizza">https://soundcloud.com/paudeville/superhero-sandwich-ft-jacko-and-lu-the-pizza</a>
 
-<iframe scrolling="no" frameborder="0" style="width:100%;height:180px;border:0;overflow:hidden;" width="100%" height="180" src="https://app.stitcher.com/splayer/f/363388/58776752?el=0&refid=stpr"></iframe>
+http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-4/paudeville-ep-4.mp3
 
 <a href="https://itunes.apple.com/us/podcast/paudeville/id1450915591">
 	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Apple Music'/>

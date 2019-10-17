@@ -29,7 +29,7 @@ Be freaked out by the Shoebill Stork at: <a href="https://www.youtube.com/watch?
 
 Haunt your dreams with the Goblin Shark at: <a href="https://www.youtube.com/watch?v=UTO5debfmsg">https://www.youtube.com/watch?v=UTO5debfmsg</a>
 
-<iframe scrolling="no" frameborder="0" style="width:100%;height:180px;border:0;overflow:hidden;" width="100%" height="360" src="https://app.stitcher.com/splayer/f/363388/58614380?el=0&refid=stpr"></iframe>
+http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-3/paudeville-ep-3.mp3
 
 <a href="https://itunes.apple.com/us/podcast/paudeville/id1450915591">
 	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Apple Music'/>
