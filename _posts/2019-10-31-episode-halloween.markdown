@@ -2,7 +2,7 @@
 layout                  : posts
 title                   : "Halloween Boonus Episode"
 rss_title               : "Halloween Boonus Episode"
-date                    : 2019-10-31 5:30:00
+date                    : 2019-10-31 0:00:00
 
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
