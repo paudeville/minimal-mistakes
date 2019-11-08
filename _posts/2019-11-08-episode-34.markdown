@@ -37,7 +37,7 @@ Paudeville is a proud member of the Podicon Go network of family-friendly podcas
 
 Social Links: <a href="https://twitter.com/paudeville">Twitter</a> | <a href="https://www.facebook.com/paudeville">Facebook</a> | <a href="https://www.instagram.com/paudevilleshow/">Instagram</a> | <a href="https://paudeville.com/">Website</a>
 
-http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-33/paudeville-ep-33.mp3
+http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-34/paudeville-ep-34.mp3
 
 <a href="https://itunes.apple.com/us/podcast/paudeville/id1450915591">
 	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Apple Music'/>
