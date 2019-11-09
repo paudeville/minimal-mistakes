@@ -37,6 +37,8 @@ Paudeville is a proud member of the Podicon Go network of family-friendly podcas
 
 Social Links: <a href="https://twitter.com/paudeville">Twitter</a> | <a href="https://www.facebook.com/paudeville">Facebook</a> | <a href="https://www.instagram.com/paudevilleshow/">Instagram</a> | <a href="https://paudeville.com/">Website</a>
 
+Listen:
+
 http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-34/paudeville-ep-34.mp3
 
 Subscribe:
@@ -53,5 +55,7 @@ Subscribe:
 <a href="https://www.stitcher.com/s?fid=363388&refid=stpr">
 	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Stitcher_Listen_Badge_Color_Dark_BG_140x34.png' width='140px' height='34' alt='Listen on Stitcher'/>
 </a>
+
+Review: 
 
 <a href="https://www.podchaser.com/Paudeville?utm_source=Paudeville%7C792285&utm_medium=badge&utm_content=TRCASP792285" target="__blank" style="text-decoration:none" ><img alt="Podchaser - Paudeville" src="https://imagegen.podchaser.com/badge/TRCASP792285.png" style="width:300px;max-width:100%"/></a>
