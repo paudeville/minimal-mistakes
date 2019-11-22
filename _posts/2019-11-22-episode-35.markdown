@@ -1,0 +1,55 @@
+---
+layout                  : posts
+title                   : "Episode 35: Game or Maim?, Honey Crunch 'n Oats"
+rss_title               : "35: Game or Maim?, Honey Crunch 'n Oats"
+date                    : 2019-11-22 6:30:00
+
+header                  : 
+  image                 : "/assets/images/new-header copy.jpg"
+  og_image              : "/assets/images/twitter-card-35.jpg"
+
+categories              : podcast
+permalink               : /episode-35/
+image                   : "/assets/images/episode-35-square.jpg"
+podcast_link            : http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-35/paudeville-ep-35.mp3
+podcast_file_size       : 36.3 MB
+podcast_duration        : 3178
+podcast_duration_itunes : "52:58"
+podcast_length          : 38146385
+podcast_guid            : episode-35/
+share                   : true
+published               : true 
+---
+Are we still tired? You tell us! Tell us yes. The answer is yes. We're tired.
+
+Family updates! We went on a hot date in the cold autumn air and cached some geos (I think I'm saying that right...). 
+We also enjoyed Ruby's kindergarten Thanksgiving PERFORMANCE. Not a program, not a presentation. A performance!
+
+We have a brand new game for you folks this week. Inspired by sleep deprivation and our dark sense of humor, it's "Game or Maim?"! What's fun to do normal speed but torture to do fast? Listen to find out!
+
+This episode is brought to you by Hot Dr. Pepper! Why!? Oh sweet mercy, why!?
+
+The musical selection this week is "Honey Crunch 'n Oats." Aldi you can send the checks to PO Box 123456 Paudeville, USA. You can stream and download all our musical selections at <a href="https://soundcloud.com/paudeville">https://soundcloud.com/paudeville</a>
+
+Our Paudeville Recommends for this episode are Disney+ and another actual play RPG podcast called <a href="http://questcompanyjunior.com/">Quest Company Junior</a> and especially their game Postcards from Pearl. If your venn diagram of nerd-dom covers Pokemon and D&D then this is the show for you!
+
+Paudeville is a proud member of the Podicon Go network of family-friendly podcasts. See all the other fine shows at <a href="https://www.podicongo.com/">https://www.podicongo.com/</a>.
+
+Social Links: <a href="https://twitter.com/paudeville">Twitter</a> | <a href="https://www.facebook.com/paudeville">Facebook</a> | <a href="https://www.instagram.com/paudevilleshow/">Instagram</a> | <a href="https://paudeville.com/">Website</a>
+
+Listen: http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-35/paudeville-ep-35.mp3
+
+Subscribe: <a href="https://itunes.apple.com/us/podcast/paudeville/id1450915591">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Apple Music'/>
+</a>
+<a href="https://play.google.com/music/m/Igre2ostm2ltqiq4sabzzrl5jcy?t=Paudeville">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/google_podcasts_badge_140x34.png' width='140px' height='34' alt='Listen on Google Podcasts'/>
+</a>
+<a href="https://open.spotify.com/show/4q5RNUUtU4XFqsymP7dcTw">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Spotify_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Spotify'/>
+</a>
+<a href="https://www.stitcher.com/s?fid=363388&refid=stpr">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Stitcher_Listen_Badge_Color_Dark_BG_140x34.png' width='140px' height='34' alt='Listen on Stitcher'/>
+</a>
+
+Review: <a href="https://www.podchaser.com/Paudeville?utm_source=Paudeville%7C792285&utm_medium=badge&utm_content=TRCAP792285" target="__blank" style="text-decoration:none" ><img alt="Podchaser - Paudeville" src="https://imagegen.podchaser.com/badge/TRCAP792285.png" style="width:100%;max-width:300px"/></a>
