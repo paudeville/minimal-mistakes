@@ -56,4 +56,6 @@ Subscribe:
 	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Stitcher_Listen_Badge_Color_Dark_BG_140x34.png' width='140px' height='34' alt='Listen on Stitcher'/>
 </a> 
 
-Review: <a href="https://www.podchaser.com/Paudeville?utm_source=Paudeville%7C792285&utm_medium=badge&utm_content=TRCAP792285" target="__blank" style="text-decoration:none" ><img alt="Podchaser - Paudeville" src="https://imagegen.podchaser.com/badge/TRCAP792285.png" style="width:100%;max-width:300px"/></a>
+Review: 
+
+<a href="https://www.podchaser.com/Paudeville?utm_source=Paudeville%7C792285&utm_medium=badge&utm_content=TRCAP792285" target="__blank" style="text-decoration:none" ><img alt="Podchaser - Paudeville" src="https://imagegen.podchaser.com/badge/TRCAP792285.png" style="width:100%;max-width:400px"/></a>
