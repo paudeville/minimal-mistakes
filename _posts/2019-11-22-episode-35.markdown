@@ -41,15 +41,15 @@ Listen: http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-3
 
 Subscribe: <a href="https://itunes.apple.com/us/podcast/paudeville/id1450915591">
 	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Apple Music'/>
-</a>
+</a> | 
 <a href="https://play.google.com/music/m/Igre2ostm2ltqiq4sabzzrl5jcy?t=Paudeville">
 	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/google_podcasts_badge_140x34.png' width='140px' height='34' alt='Listen on Google Podcasts'/>
-</a>
+</a> |
 <a href="https://open.spotify.com/show/4q5RNUUtU4XFqsymP7dcTw">
 	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Spotify_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Spotify'/>
-</a>
+</a> |
 <a href="https://www.stitcher.com/s?fid=363388&refid=stpr">
 	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Stitcher_Listen_Badge_Color_Dark_BG_140x34.png' width='140px' height='34' alt='Listen on Stitcher'/>
-</a>
+</a> 
 
 Review: <a href="https://www.podchaser.com/Paudeville?utm_source=Paudeville%7C792285&utm_medium=badge&utm_content=TRCAP792285" target="__blank" style="text-decoration:none" ><img alt="Podchaser - Paudeville" src="https://imagegen.podchaser.com/badge/TRCAP792285.png" style="width:100%;max-width:300px"/></a>
