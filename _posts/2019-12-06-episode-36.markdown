@@ -1,0 +1,59 @@
+---
+layout                  : posts
+title                   : "Episode 36: Dungeons and Dad Puns, An Elderberry Tale, Pause Game"
+rss_title               : "36: Dungeons and Dad Puns, An Elderberry Tale, Pause Game"
+date                    : 2019-12-06 18:30:00
+
+header                  : 
+  image                 : "/assets/images/new-header copy.jpg"
+  og_image              : "/assets/images/twitter-card-36.jpg"
+
+categories              : podcast
+permalink               : /episode-36/
+image                   : "/assets/images/episode-36-square.jpg"
+podcast_link            : http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-36/paudeville-ep-36.mp3
+podcast_file_size       : 52.1 MB
+podcast_duration        : 4556
+podcast_duration_itunes : "75:56"
+podcast_length          : 54675312
+podcast_guid            : episode-36/
+share                   : true
+published               : true 
+---
+Lots going on in this episode! We busted out the nifty thrifty mobile recording center 3000 and enjoyed a nice stroll in Vienna, VA. 
+Also, Corbin started playing D&D with the kids and we thought about waiting until they figured out what they were doing to start recording it, but decided that wouldn't be the Paudeville way! Tune in as JK starts out on his Pokemon adventure. More to come!
+
+For the Holidays we're doing the ol' podcast turducken. That's right! It's a podcast within a podcast! We present to you the latest episode of <a href="https://www.elderberrytales.com/>Elderberry Tales</a>, a podcast of charming kid stories with great discussion questions at the end.
+
+This episode is brought to you by Lucky Strike...Candy Canes! Right?! Right! Thanks Santa!
+
+The musical selection this week is "Pause Game," with vocals from our 3-year-old Lukey. You can stream and download all our musical selections at <a href="https://soundcloud.com/paudeville">https://soundcloud.com/paudeville</a>
+
+Our Paudeville Recommends for this episode are Dungeons and Dragons, especially the Pokemon version (go to <a href="https://www.pokemon5e.com/">https://www.pokemon5e.com/</a> for more info) and of course, Elderberry Tales.
+
+Paudeville is a proud member of the Podicon Go network of family-friendly podcasts. See all the other fine shows at <a href="https://www.podicongo.com/">https://www.podicongo.com/</a>.
+
+Social Links: <a href="https://twitter.com/paudeville">Twitter</a> | <a href="https://www.facebook.com/paudeville">Facebook</a> | <a href="https://www.instagram.com/paudevilleshow/">Instagram</a> | <a href="https://paudeville.com/">Website</a>
+
+Listen: 
+
+http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-36/paudeville-ep-36.mp3
+
+Subscribe:
+ 
+<a href="https://itunes.apple.com/us/podcast/paudeville/id1450915591">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Apple Music'/>
+</a> 
+<a href="https://play.google.com/music/m/Igre2ostm2ltqiq4sabzzrl5jcy?t=Paudeville">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/google_podcasts_badge_140x34.png' width='140px' height='34' alt='Listen on Google Podcasts'/>
+</a>
+<a href="https://open.spotify.com/show/4q5RNUUtU4XFqsymP7dcTw">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Spotify_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Spotify'/>
+</a>
+<a href="https://www.stitcher.com/s?fid=363388&refid=stpr">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Stitcher_Listen_Badge_Color_Dark_BG_140x34.png' width='140px' height='34' alt='Listen on Stitcher'/>
+</a> 
+
+Review: 
+
+<a href="https://www.podchaser.com/Paudeville?utm_source=Paudeville%7C792285&utm_medium=badge&utm_content=TRCAP792285" target="__blank" style="text-decoration:none" ><img alt="Podchaser - Paudeville" src="https://imagegen.podchaser.com/badge/TRCAP792285.png" style="width:100%;max-width:400px"/></a>
