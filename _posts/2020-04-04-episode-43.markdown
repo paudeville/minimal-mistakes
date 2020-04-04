@@ -1,0 +1,61 @@
+---
+layout                  : posts
+title                   : "Episode 43: Sanz Headbanz (Animal Edition), Kid Segments, Little Dubmaid"
+rss_title               : "43: Sanz Headbanz (Animal Edition), Kid Segments, Little Dubmaid"
+date                    : 2020-04-04 6:30:00
+
+header                  : 
+  image                 : "/assets/images/new-header copy.jpg"
+  og_image              : "/assets/images/twitter-card-43.jpg"
+
+categories              : podcast
+permalink               : /episode-43/
+image                   : "/assets/images/episode-43-square.jpg"
+podcast_link            : http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-43/paudeville-ep-43.mp3
+podcast_file_size       : 108 MB
+podcast_duration        : 3571
+podcast_duration_itunes : "59:31"
+podcast_length          : 114277232
+podcast_guid            : episode-43/
+share                   : true
+published               : true 
+---
+We're coming to you from our house, like always. But this time...it feels...different somehow... Oh yes we've been inside for weeks! But we're here to keep it light and fun.
+
+We bring back a fave guessing game that's easy to play whenever and wherever that we call Sanz Headbanz (like Headbandz...but...without...you get it.) This time...Animal edition!
+
+Our vintage ad this week is for Jello! If a dumb husband who is intimidated by reading can make a complete meal...with Jello!
+
+The kid segments are back! We have another installment of Lukey's Zooky where Luke tells us about elephants and stuff. 
+Ruby tests out a new segment called Love Fest! Finally, Theo's Pokemon Corner features the little flame-bum: Charmander.
+
+The musical selection selection this week is "Little Dubmaid," a dubstep song about mermaids based on a suggestion from <a href="https://twitter.com/TeagueDarell">@TeagueDarell</a>! You can stream and download all our musical selections at <a href="https://soundcloud.com/paudeville">https://soundcloud.com/paudeville</a>
+
+Our recommends this week are to wash your hands and stay home if you can! And while you're washing your hands you can listen to <a href="https://www.youtube.com/watch?v=52L23avITUQ">Wienerina (Vampire Dog) by Parry Gripp</a> or <a href="https://cubonesandcatacombs.libsyn.com/website">Cubones and Catacombs</a>.
+
+Paudeville is a proud member of the Podicon Go network of family-friendly podcasts. See all the other fine shows at <a href="https://www.podicongo.com/">https://www.podicongo.com/</a>.
+
+Social Links: <a href="https://twitter.com/paudeville">Twitter</a> | <a href="https://www.facebook.com/paudeville">Facebook</a> | <a href="https://www.instagram.com/paudevilleshow/">Instagram</a> | <a href="https://paudeville.com/">Website</a>
+
+Listen: 
+
+http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-43/paudeville-ep-43.mp3
+
+Subscribe:
+ 
+<a href="https://itunes.apple.com/us/podcast/paudeville/id1450915591">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Apple Music'/>
+</a> 
+<a href="https://play.google.com/music/m/Igre2ostm2ltqiq4sabzzrl5jcy?t=Paudeville">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/google_podcasts_badge_140x34.png' width='140px' height='34' alt='Listen on Google Podcasts'/>
+</a>
+<a href="https://open.spotify.com/show/4q5RNUUtU4XFqsymP7dcTw">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Spotify_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Spotify'/>
+</a>
+<a href="https://www.stitcher.com/s?fid=363388&refid=stpr">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Stitcher_Listen_Badge_Color_Dark_BG_140x34.png' width='140px' height='34' alt='Listen on Stitcher'/>
+</a> 
+
+Review: 
+
+<a href="https://www.podchaser.com/Paudeville?utm_source=Paudeville%7C792285&utm_medium=badge&utm_content=TRCAP792285" target="__blank" style="text-decoration:none" ><img alt="Podchaser - Paudeville" src="https://imagegen.podchaser.com/badge/TRCAP792285.png" style="width:100%;max-width:400px"/></a>
