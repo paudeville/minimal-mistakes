@@ -1,0 +1,61 @@
+---
+layout                  : posts
+title                   : "Episode 44: Apple Name Game, Kid Segments, Unique Eunuch Unicorn"
+rss_title               : "44: Apple Name Game, Kid Segments, Unique Eunuch Unicorn"
+date                    : 2020-05-08 6:30:00
+
+header                  : 
+  image                 : "/assets/images/new-header copy.jpg"
+  og_image              : "/assets/images/twitter-card-44.jpg"
+
+categories              : podcast
+permalink               : /episode-44/
+image                   : "/assets/images/episode-44-square.jpg"
+podcast_link            : http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-44/paudeville-ep-44.mp3
+podcast_file_size       : 108 MB
+podcast_duration        : 3571
+podcast_duration_itunes : "59:31"
+podcast_length          : 114277232
+podcast_guid            : episode-44/
+share                   : true
+published               : true 
+---
+I thought being stuck at home all together would bring in the Great Podcasting Boom of 2020...turns out 2020 might be remembered for something else!
+
+We have a brand new game of Julie's own design. It's sweet. It's tart. It's a brownish greyish fruit. It's the Apple Name Game!
+
+Our vintage ad this week is for Pork and Beans! It's the best kind of beans and the best kind of pork.
+
+Also, more kid segments! Speaking of pork, we have another installment of Lukey's Zooky where Luke tells us about pigs! 
+Ruby brings back the good ol' Love Fest! Finally, Theo's Pokemon Corner features a real deep cut, one you probably haven't heard of: Pikachu.
+
+The musical selection selection this week is "Unique Eunuch Unicorn," where a poor unicorn has so many...emotions! Based on a suggestion from <a href="https://twitter.com/ChrisAnne81">@ChrisAnne81</a>! You can stream and download all our musical selections at <a href="https://soundcloud.com/paudeville">https://soundcloud.com/paudeville</a>
+
+Our recommends this week are <a href="https://www.dustibowling.com/other-books-1">Insignificant Events in the Life of a Cactus</a> by Dusti Bowling and be sure to check out the upcoming story on the <a href="https://happygolukky.com/">HappyGoLukky Podcast</a>. Check it out!
+
+Paudeville is a proud member of the Podicon Go network of family-friendly podcasts. See all the other fine shows at <a href="https://www.podicongo.com/">https://www.podicongo.com/</a>.
+
+Social Links: <a href="https://twitter.com/paudeville">Twitter</a> | <a href="https://www.facebook.com/paudeville">Facebook</a> | <a href="https://www.instagram.com/paudevilleshow/">Instagram</a> | <a href="https://paudeville.com/">Website</a>
+
+Listen: 
+
+http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-44/paudeville-ep-44.mp3
+
+Subscribe:
+ 
+<a href="https://itunes.apple.com/us/podcast/paudeville/id1450915591">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Apple Music'/>
+</a> 
+<a href="https://play.google.com/music/m/Igre2ostm2ltqiq4sabzzrl5jcy?t=Paudeville">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/google_podcasts_badge_140x34.png' width='140px' height='34' alt='Listen on Google Podcasts'/>
+</a>
+<a href="https://open.spotify.com/show/4q5RNUUtU4XFqsymP7dcTw">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Spotify_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Spotify'/>
+</a>
+<a href="https://www.stitcher.com/s?fid=363388&refid=stpr">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Stitcher_Listen_Badge_Color_Dark_BG_140x34.png' width='140px' height='34' alt='Listen on Stitcher'/>
+</a> 
+
+Review: 
+
+<a href="https://www.podchaser.com/Paudeville?utm_source=Paudeville%7C792285&utm_medium=badge&utm_content=TRCAP792285" target="__blank" style="text-decoration:none" ><img alt="Podchaser - Paudeville" src="https://imagegen.podchaser.com/badge/TRCAP792285.png" style="width:100%;max-width:400px"/></a>
