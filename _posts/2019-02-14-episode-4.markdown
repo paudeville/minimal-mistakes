@@ -4,6 +4,12 @@ title                   : "Episode 4: Love Bucket, Egghead Corner, The Pizza"
 rss_title               : "4: Love Bucket, Egghead Corner, The Pizza"
 date                    : 2019-02-14 9:00:00 -0500
 
+itunes_title			: "Love Bucket, Egghead Corner, The Pizza"
+season_number			: 1
+episode_number			: 4
+episode_type			: full
+episode_keys			: ""
+
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card-4.jpg"

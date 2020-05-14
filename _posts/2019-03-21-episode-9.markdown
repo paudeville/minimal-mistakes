@@ -4,6 +4,12 @@ title                   : "Episode 9: Twu Cwimes, Hink Pink, Legos Are Great"
 rss_title               : "9: Twu Cwimes, Hink Pink, Legos Are Great"
 date                    : 2019-03-21 10:30:00
 
+itunes_title			: "Twu Cwimes, Hink Pink, Legos Are Great"
+season_number			: 1
+episode_number			: 9
+episode_type			: full
+episode_keys			: ""
+
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card-9.jpg"

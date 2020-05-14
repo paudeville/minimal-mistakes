@@ -4,6 +4,12 @@ title                   : "Episode 8: First Impressions, Tallman Jones 2, Snake 
 rss_title               : "8: First Impressions, Tallman Jones 2, Snake Powers"
 date                    : 2019-03-14 8:30:00
 
+itunes_title			: "First Impressions, Tallman Jones 2, Snake Powers"
+season_number			: 1
+episode_number			: 8
+episode_type			: full
+episode_keys			: ""
+
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card-8.jpg"

@@ -4,6 +4,12 @@ title                   : "Episode 42: Abbey Road? I Hardly Know Her!, Getcher B
 rss_title               : "42: Abbey Road? I Hardly Know Her!, Getcher Buns of the Table, Kid Segments"
 date                    : 2020-03-21 12:30:00
 
+itunes_title			: "Abbey Road? I Hardly Know Her!, Getcher Buns of the Table, Kid Segments"
+season_number			: 2
+episode_number			: 42
+episode_type			: full
+episode_keys			: "travel,animals,true crime,pokemon,music,roads,improv"
+
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card-42.jpg"

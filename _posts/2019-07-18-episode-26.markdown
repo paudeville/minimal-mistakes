@@ -4,6 +4,12 @@ title                   : "Episode 26: The Categories Game, Cake Monster"
 rss_title               : "26: The Categories Game, Cake Monster"
 date                    : 2019-07-18 09:30:00
 
+itunes_title			: "The Categories Game, Cake Monster"
+season_number			: 1
+episode_number			: 26
+episode_type			: full
+episode_keys			: ""
+
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card-26.jpg"

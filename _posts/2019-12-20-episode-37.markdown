@@ -4,6 +4,12 @@ title                   : "Episode 37: Finishing Each Other's..., Too Tired (Som
 rss_title               : "37: Finishing Each Other's..., Too Tired (Something Something Christmas)"
 date                    : 2019-12-20 6:30:00
 
+itunes_title			: "Finishing Each Other's..., Too Tired (Something Something Christmas)"
+season_number			: 1
+episode_number			: 37
+episode_type			: full
+episode_keys			: ""
+
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card-37.jpg"

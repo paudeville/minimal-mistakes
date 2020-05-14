@@ -4,6 +4,12 @@ title                   : "Episode 30: Animal Freakshow, Detective Gold 2, Fist 
 rss_title               : "30: Animal Freakshow, Detective Gold 2, Fist of Doom"
 date                    : 2019-09-13 06:30:00
 
+itunes_title			: "Animal Freakshow, Detective Gold 2, Fist of Doom"
+season_number			: 1
+episode_number			: 30
+episode_type			: full
+episode_keys			: ""
+
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card-30.jpg"

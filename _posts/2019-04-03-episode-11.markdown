@@ -4,6 +4,12 @@ title                   : "Episode 11: Good Prank, Bad Prank; Twu Cwimes; Humuhu
 rss_title               : "11: Good Prank, Bad Prank; Twu Cwimes; Humuhumu"
 date                    : 2019-04-04 09:30:00
 
+itunes_title			: "Good Prank, Bad Prank; Twu Cwimes; Humuhumu"
+season_number			: 1
+episode_number			: 11
+episode_type			: full
+episode_keys			: ""
+
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card-11.jpg"

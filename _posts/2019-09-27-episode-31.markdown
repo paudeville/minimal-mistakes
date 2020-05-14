@@ -4,6 +4,12 @@ title                   : "Episode 31: First Impressions with Ruby, The Angry So
 rss_title               : "31: First Impressions with Ruby, The Angry Song"
 date                    : 2019-09-27 06:30:00
 
+itunes_title			: "First Impressions with Ruby, The Angry Song"
+season_number			: 1
+episode_number			: 31
+episode_type			: full
+episode_keys			: ""
+
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card-31.jpg"

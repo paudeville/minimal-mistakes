@@ -4,6 +4,12 @@ title                   : "Episode 19: Whachu Been Upto?, Tongue Twisters, Butte
 rss_title               : "19: Whachu Been Upto?, Tongue Twisters, Butterside"
 date                    : 2019-05-30 07:00:00
 
+itunes_title			: "Whachu Been Upto?, Tongue Twisters, Butterside"
+season_number			: 1
+episode_number			: 19
+episode_type			: full
+episode_keys			: ""
+
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card-19.jpg"

@@ -4,6 +4,12 @@ title                   : "Episode 17: Hink Pink, Penguin Pie"
 rss_title               : "17: Hink Pink, Penguin Pie"
 date                    : 2019-05-16 10:30:00
 
+itunes_title			: "Hink Pink, Penguin Pie"
+season_number			: 1
+episode_number			: 17
+episode_type			: full
+episode_keys			: ""
+
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card-17.jpg"

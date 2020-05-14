@@ -4,6 +4,12 @@ title                   : "Episode 16: Anniversary Special, Through Closed Eyes"
 rss_title               : "16: Anniversary Special, Through Closed Eyes"
 date                    : 2019-05-09 10:30:00
 
+itunes_title			: "Anniversary Special, Through Closed Eyes"
+season_number			: 1
+episode_number			: 16
+episode_type			: full
+episode_keys			: ""
+
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card-16.jpg"

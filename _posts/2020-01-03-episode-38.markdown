@@ -4,6 +4,12 @@ title                   : "Episode 38: New Years Categories, I’m Starving"
 rss_title               : "38: New Years Categories, I’m Starving"
 date                    : 2020-01-03 6:30:00
 
+itunes_title			: "New Years Categories, I’m Starving"
+season_number			: 1
+episode_number			: 38
+episode_type			: full
+episode_keys			: ""
+
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card-38.jpg"

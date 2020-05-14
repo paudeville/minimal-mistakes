@@ -4,6 +4,12 @@ title                   : "Episode 29: Categories, Twue Cwimes, Detective Gold 1
 rss_title               : "29: Categories, Twue Cwimes, Detective Gold 1, Mushroom Cup"
 date                    : 2019-08-30 07:30:00
 
+itunes_title			: "Categories, Twue Cwimes, Detective Gold 1, Mushroom Cup"
+season_number			: 1
+episode_number			: 29
+episode_type			: full
+episode_keys			: ""
+
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card-29.jpg"

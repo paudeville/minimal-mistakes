@@ -4,6 +4,12 @@ title                   : "Episode 33: Animal Freakstravaganza, Hey Boy"
 rss_title               : "33: Animal Freakstravaganza, Hey Boy"
 date                    : 2019-10-25 17:30:00
 
+itunes_title			: "Animal Freakstravaganza, Hey Boy"
+season_number			: 1
+episode_number			: 33
+episode_type			: full
+episode_keys			: ""
+
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card-33.jpg"

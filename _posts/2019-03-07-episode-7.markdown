@@ -4,6 +4,12 @@ title                   : "Episode 7: Kid Jokes vs. Dad Jokes, Tallman Jones, La
 rss_title               : "7: Kid Jokes vs. Dad Jokes, Tallman Jones, Lavatiger"
 date                    : 2019-03-07 8:00:00 -0500
 
+itunes_title			: "Kid Jokes vs. Dad Jokes, Tallman Jones, Lavatiger"
+season_number			: 1
+episode_number			: 7
+episode_type			: full
+episode_keys			: ""
+
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card-7.jpg"

@@ -4,6 +4,12 @@ title                   : "Episode 14: Not That Kind of Doctor, Twu Cwimes, Micr
 rss_title               : "14: Not That Kind of Doctor, Twu Cwimes, Microphone"
 date                    : 2019-04-25 09:30:00
 
+itunes_title			: "Not That Kind of Doctor, Twu Cwimes, Microphone"
+season_number			: 1
+episode_number			: 14
+episode_type			: full
+episode_keys			: ""
+
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card-14.jpg"

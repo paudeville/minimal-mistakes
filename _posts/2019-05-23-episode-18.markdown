@@ -4,6 +4,12 @@ title                   : "Episode 18: Camping Review, 20 Questions, Alligator U
 rss_title               : "18: Camping Review, 20 Questions, Alligator Unicorn"
 date                    : 2019-05-23 08:30:00
 
+itunes_title			: "Camping Review, 20 Questions, Alligator Unicorn"
+season_number			: 1
+episode_number			: 18
+episode_type			: full
+episode_keys			: ""
+
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card-18.jpg"

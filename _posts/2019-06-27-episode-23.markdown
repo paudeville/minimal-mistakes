@@ -4,6 +4,12 @@ title                   : "Episode 23: BB Guns, What's in a Name?, 1st Impressio
 rss_title               : "23: BB Guns, What's in a Name?, 1st Impressions, Kinda Burpy"
 date                    : 2019-06-27 09:30:00
 
+itunes_title			: "BB Guns, What's in a Name?, 1st Impressions, Kinda Burpy"
+season_number			: 1
+episode_number			: 23
+episode_type			: full
+episode_keys			: ""
+
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card-23.jpg"

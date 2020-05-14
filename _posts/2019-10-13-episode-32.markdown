@@ -4,6 +4,12 @@ title                   : "Episode 32: We Hadda Baby!, True Crimes, Deep Valley 
 rss_title               : "32: We Hadda Baby!, True Crimes, Deep Valley Qs, Little Sadness"
 date                    : 2019-10-13 7:30:00
 
+itunes_title			: "We Hadda Baby!, True Crimes, Deep Valley Qs, Little Sadness"
+season_number			: 1
+episode_number			: 32
+episode_type			: full
+episode_keys			: ""
+
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card-32.jpg"

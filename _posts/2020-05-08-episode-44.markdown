@@ -4,6 +4,12 @@ title                   : "Episode 44: Apple Name Game, Kid Segments, Unique Eun
 rss_title               : "44: Apple Name Game, Kid Segments, Unique Eunuch Unicorn"
 date                    : 2020-05-08 6:30:00
 
+itunes_title			: "Apple Name Game, Kid Segments, Unique Eunuch Unicorn"
+season_number			: 2
+episode_number			: 44
+episode_type			: full
+episode_keys			: "apples,kids,music,unicorns,animals,pork and beans,family,variety show"
+
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card-44.jpg"

@@ -4,6 +4,12 @@ title                   : "Episode 41: Love Bucket (Nerd Edition), Ragtime Reces
 rss_title               : "41: Love Bucket (Nerd Edition), Ragtime Recess"
 date                    : 2020-02-14 6:30:00
 
+itunes_title			: "Love Bucket (Nerd Edition), Ragtime Recess"
+season_number			: 2
+episode_number			: 41
+episode_type			: full
+episode_keys			: "math,economics,love,pickup lines,music,ragtime,improv"
+
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card-41.jpg"

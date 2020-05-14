@@ -4,6 +4,12 @@ title                   : "Halloween Boonus Episode"
 rss_title               : "Halloween Boonus Episode"
 date                    : 2019-10-31 0:00:00
 
+itunes_title			: "Halloween Boonus Episode"
+season_number			: 1
+episode_number			: 0
+episode_type			: bonus
+episode_keys			: "halloween"
+
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card-halloween.jpg"

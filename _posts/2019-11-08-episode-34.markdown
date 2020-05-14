@@ -4,6 +4,12 @@ title                   : "Episode 34: Thanksgiving? I Hardly Know Her!, Little 
 rss_title               : "34: Thanksgiving? I Hardly Know Her!, Little Hero"
 date                    : 2019-11-08 6:30:00
 
+itunes_title			: "Thanksgiving? I Hardly Know Her!, Little Hero"
+season_number			: 1
+episode_number			: 34
+episode_type			: full
+episode_keys			: ""
+
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card-34.jpg"

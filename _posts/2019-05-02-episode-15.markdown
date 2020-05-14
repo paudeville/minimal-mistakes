@@ -4,6 +4,12 @@ title                   : "Episode 15: New Wives' Tales (with Holly), 100-Foot H
 rss_title               : "15: New Wives' Tales (with Holly), 100-Foot Hotdog"
 date                    : 2019-05-02 07:30:00
 
+itunes_title			: "New Wives' Tales (with Holly), 100-Foot Hotdog"
+season_number			: 1
+episode_number			: 15
+episode_type			: full
+episode_keys			: ""
+
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card-15.jpg"

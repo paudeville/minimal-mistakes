@@ -4,6 +4,12 @@ title                   : "Episode 39: Dungeons and Dad Puns 2"
 rss_title               : "39: Dungeons and Dad Puns 2"
 date                    : 2020-01-18 6:30:00
 
+itunes_title			: "Dungeons and Dad Puns 2"
+season_number			: 1
+episode_number			: 39
+episode_type			: full
+episode_keys			: "dungeons and dragons, pokemon, kids"
+
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card-39.jpg"

@@ -3,9 +3,17 @@ layout                  : posts
 title                   : "Episode 2: Family Newsletter, First Impressions, Fishy Fishy"
 rss_title               : "2: Family Newsletter, First Impressions, Fishy Fishy"
 date                    : 2019-01-31 9:15:12 -0500
+
+itunes_title			: "Family Newsletter, First Impressions, Fishy Fishy"
+season_number			: 1
+episode_number			: 2
+episode_type			: full
+episode_keys			: ""
+
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card.jpg"
+
 categories              : podcast
 permalink               : /episode-2/
 image                   : /assets/images/logo_2000x2000.jpg

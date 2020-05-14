@@ -20,7 +20,10 @@ layout: null
 <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
 <itunes:image href="{{ site.podcast_site }}{{ site.podcast_album_art }}" />
 <itunes:category text="{{ site.podcast_category }}"/>
+<itunes:category text="{{ site.podcast_subcategory_one }}"/>
+<itunes:category text="{{ site.podcast_subcategory_two }}"/>
 <itunes:keywords>{{ site.podcast_keylist}}</itunes:keywords>
+<itunes:type>episodic</itunes:type>
 <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
 <managingEditor>{{ site.podcast_email }} ({{ site.podcast_owner }})</managingEditor>
 <image>
@@ -32,22 +35,29 @@ layout: null
 {% for ep in site.categories.podcast %}
 <item>
 <title>{{ ep.rss_title }}</title>
-<itunes:summary>
-<![CDATA[{{ ep.excerpt | strip_html | truncatewords: 40 | expand_urls: site.podcast_site | cdata_escape }}]]>
-</itunes:summary>
 <description>
 <![CDATA[{{ ep.content | expand_urls: site.podcast_site | cdata_escape }}]]>
 </description>
+<itunes:title>{{ ep.itunes_title }}</itunes:title>
+<itunes:subtitle><![CDATA[{{ ep.excerpt | strip_html | truncate: 252 | expand_urls: site.podcast_site | cdata_escape }}]]></itunes:subtitle>
+<itunes:episodeType>{{ ep.episode_type }}</itunes:episodeType>
+<itunes:episode>{{ ep.episode_number }}</itunes:episode>
+<itunes:season>{{ ep.season_number }}</itunes:season>
+<itunes:summary>
+<![CDATA[{{ ep.excerpt | strip_html | truncatewords: 40 | expand_urls: site.podcast_site | cdata_escape }}]]>
+</itunes:summary>
+<content:encoded>
+<![CDATA[{{ ep.content | expand_urls: site.podcast_site | cdata_escape }}]]>
+</content:encoded>
+<guid isPermaLink="{% if ep.podcast_guid %}false{% else %}true{% endif %}">{{ site.podcast_site }}{% if ep.podcast_guid %}/{{ ep.podcast_guid }}{% else %}{{ ep.url }}{% endif %}</guid>
+<pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
 <link>{{ site.podcast_site }}{{ ep.url }}</link>
+<itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
+<itunes:image href="{{ site.podcast_site }}{{ site.podcast_album_art }}" />
+<itunes:keywords>{{ site.podcast_keylist}}</itunes:keywords>
+<itunes:duration>{{ ep.podcast_duration_itunes }}</itunes:duration>
 <enclosure url="{{ ep.podcast_link }}" length="{{ ep.podcast_length }}" type="audio/mpeg" />
 <comments>{{ site.podcast_site }}{{ ep.url }}#comments</comments>
-<pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
-<itunes:author>{{ site.podcast_author }}</itunes:author>
-<itunes:duration>{{ ep.podcast_duration_itunes }}</itunes:duration>
-<itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
-<guid isPermaLink="{% if ep.podcast_guid %}false{% else %}true{% endif %}">{{ site.podcast_site }}{% if ep.podcast_guid %}/{{ ep.podcast_guid }}{% else %}{{ ep.url }}{% endif %}</guid>
-<itunes:subtitle><![CDATA[{{ ep.excerpt | strip_html | truncate: 252 | expand_urls: site.podcast_site | cdata_escape }}]]></itunes:subtitle>
-<itunes:image href="{{ site.podcast_site }}{{ site.podcast_album_art }}" />
 {% for category in ep.categories %}
 <category><![CDATA[{{ category | cdata_escape }}]]></category>
 {% endfor %}

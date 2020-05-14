@@ -4,6 +4,12 @@ title                   : "Episode 40: Vector? I Hardly Know Her!, I Whiz (by Po
 rss_title               : "40: Vector? I Hardly Know Her!, I Whiz (by Poo Poo Dolls)"
 date                    : 2020-02-08 6:30:00
 
+itunes_title			: "Vector? I Hardly Know Her!, I Whiz (by Poo Poo Dolls)"
+season_number			: 2
+episode_number			: 40
+episode_type			: full
+episode_keys			: "math,economics,saxophones,music,family,goo goo dolls, parody"
+
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card-40.jpg"

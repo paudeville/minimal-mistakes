@@ -4,6 +4,12 @@ title                   : "Episode 24: Pwanks, Sanz Headbanz, Snuggle Smuggler"
 rss_title               : "24: Pwanks, Sanz Headbanz, Snuggle Smuggler"
 date                    : 2019-07-04 07:30:00
 
+itunes_title			: "Pwanks, Sanz Headbanz, Snuggle Smuggler"
+season_number			: 1
+episode_number			: 24
+episode_type			: full
+episode_keys			: ""
+
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card-24.jpg"

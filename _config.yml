@@ -119,10 +119,10 @@ author:
   links:
     - label: "Email: Corbin"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:host@paudeville.com
+      url: mailto:thegreatcorbini@gmail.com
     - label: "Email: Julie"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:hostess@paudeville.com
+      url: mailto:jcm5110@gmail.com
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/paudeville"
@@ -300,10 +300,10 @@ podcast_url: https://paudeville.com/podcast-feed
 podcast_album_art: /assets/images/logo_2000x2000.jpg
 podcast_title: Paudeville
 podcast_owner: Corbin Miller
-podcast_email: host@paudeville.com
+podcast_email: thegreatcorbini@gmail.com
 podcast_category: "Kids &amp; Family"
 podcast_subcategory_one: Comedy
-podcast_subcategory_two: 
+podcast_subcategory_two: Music
 podcast_explicit: "no"
 podcast_author: Paudeville
 podcast_description: A family-friendly variety show hosted by entertainment power couple Corbin and Julie Miller.
