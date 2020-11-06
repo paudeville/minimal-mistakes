@@ -1,0 +1,62 @@
+---
+layout                  : posts
+title                   : "Episode 46: Escape the Cellar!, Alien on the Moon"
+rss_title               : "46: Escape the Cellar!, Alien on the Moon"
+date                    : 2020-11-06 6:30:00
+
+itunes_title			: "Escape the Cellar!, Alien on the Moon"
+season_number			: 2
+episode_number			: 46
+episode_type			: full
+episode_keys			: "kids,music,family,variety show,escape rooms"
+
+header                  : 
+  image                 : "/assets/images/new-header copy.jpg"
+  og_image              : "/assets/images/twitter-card-46.jpg"
+
+categories              : podcast
+permalink               : /episode-46/
+image                   : "/assets/images/episode-46-square.jpg"
+podcast_link            : http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-46/paudeville-ep-46.mp3
+podcast_file_size       : 68.8 MB
+podcast_duration        : 3006
+podcast_duration_itunes : "50:06"
+podcast_length          : 72157813
+podcast_guid            : episode-46/
+share                   : true
+published               : true 
+---
+We're back! Nothing like needing a distraction while waiting for election results to get things rolling again! It's been a long 5 M's!
+
+Our vintage ad this week is for Psychine! RESTORE YOUR GIRLISH VIGOR!
+
+The musical selection selection this week is "Alien on the Moon," with vocals from our 4yo Lukey. You can stream and download all our musical selections at <a href="https://soundcloud.com/paudeville">https://soundcloud.com/paudeville</a>
+
+Our recommends this week are <a href="http://www.escapethispodcast.com/">Escape This Podcast</a> and <a href="https://finishitpod.com/">Finish It!</a>. Check 'em out!
+
+Paudeville is a proud member of the Podicon Go network of family-friendly podcasts. See all the other fine shows at <a href="https://www.podicongo.com/">https://www.podicongo.com/</a>.
+
+Social Links: <a href="https://twitter.com/paudeville">Twitter</a> | <a href="https://www.facebook.com/paudeville">Facebook</a> | <a href="https://www.instagram.com/paudevilleshow/">Instagram</a> | <a href="https://paudeville.com/">Website</a>
+
+Listen: 
+
+http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-46/paudeville-ep-46.mp3
+
+Subscribe:
+ 
+<a href="https://itunes.apple.com/us/podcast/paudeville/id1450915591">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Apple Music'/>
+</a> 
+<a href="https://play.google.com/music/m/Igre2ostm2ltqiq4sabzzrl5jcy?t=Paudeville">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/google_podcasts_badge_140x34.png' width='140px' height='34' alt='Listen on Google Podcasts'/>
+</a>
+<a href="https://open.spotify.com/show/4q5RNUUtU4XFqsymP7dcTw">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Spotify_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Spotify'/>
+</a>
+<a href="https://www.stitcher.com/s?fid=363388&refid=stpr">
+	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/Stitcher_Listen_Badge_Color_Dark_BG_140x34.png' width='140px' height='34' alt='Listen on Stitcher'/>
+</a> 
+
+Review: 
+
+<a href="https://www.podchaser.com/Paudeville?utm_source=Paudeville%7C792285&utm_medium=badge&utm_content=TRCAP792285" target="__blank" style="text-decoration:none" ><img alt="Podchaser - Paudeville" src="https://imagegen.podchaser.com/badge/TRCAP792285.png" style="width:100%;max-width:400px"/></a>
