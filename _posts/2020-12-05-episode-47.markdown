@@ -9,7 +9,7 @@ season_number			: 2
 episode_number			: 47
 episode_type			: full
 episode_keys			: "kids,music,family,variety show,bing,hand sanitizer"
-
+ 
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
   og_image              : "/assets/images/twitter-card-47.jpg"
