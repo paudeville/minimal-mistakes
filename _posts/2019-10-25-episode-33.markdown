@@ -42,7 +42,7 @@ http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-33/paudev
 <a href="https://itunes.apple.com/us/podcast/paudeville/id1450915591">
 	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Apple Music'/>
 </a>
-<a href="https://play.google.com/music/m/Igre2ostm2ltqiq4sabzzrl5jcy?t=Paudeville">
+<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9wYXVkZXZpbGxlLmNvbS9wb2RjYXN0LWZlZWQueG1s">
 	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/google_podcasts_badge_140x34.png' width='140px' height='34' alt='Listen on Google Podcasts'/>
 </a>
 <a href="https://open.spotify.com/show/4q5RNUUtU4XFqsymP7dcTw">
