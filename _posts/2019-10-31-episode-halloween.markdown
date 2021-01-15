@@ -6,7 +6,7 @@ date                    : 2019-10-31 0:00:00
 
 itunes_title			: "Halloween Boonus Episode"
 season_number			: 1
-episode_number			: 0
+episode_number			: 100
 episode_type			: bonus
 episode_keys			: "halloween"
 
