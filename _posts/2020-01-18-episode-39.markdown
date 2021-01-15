@@ -42,6 +42,8 @@ Listen:
 
 http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-39/paudeville-ep-39.mp3
 
+<img src='{{ site.url }}{{ site.baseurl }}/assets/images/episode-39-square.jpg' width='100%'/>
+
 Subscribe:
  
 <a href="https://itunes.apple.com/us/podcast/paudeville/id1450915591">

@@ -41,6 +41,8 @@ This week's musical selection is "Snuggle Smuggler," and it's one long strained 
 
 http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-24/paudeville-ep-24.mp3
 
+<img src='{{ site.url }}{{ site.baseurl }}/assets/images/episode-24-square.jpg' width='100%'/>
+
 <a href="https://itunes.apple.com/us/podcast/paudeville/id1450915591">
 	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Apple Music'/>
 </a>

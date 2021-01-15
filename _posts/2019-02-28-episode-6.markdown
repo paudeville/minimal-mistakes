@@ -34,6 +34,8 @@ You can stream and download all the musical selections at <a href="https://sound
 
 http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-6/paudeville-ep-6.mp3
 
+<img src='{{ site.url }}{{ site.baseurl }}/assets/images/episode-6-square.jpg' width='100%'/>
+
 <a href="https://itunes.apple.com/us/podcast/paudeville/id1450915591">
 	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Apple Music'/>
 </a>

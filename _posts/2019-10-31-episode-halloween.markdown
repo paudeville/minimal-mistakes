@@ -36,6 +36,8 @@ The musical selection this week is "Echo Mansion," submitted by Holly Flanagan (
 
 http://dts.podtrac.com/redirect.mp3/archive.org/download/paudeville-ep-halloween/paudeville-ep-halloween.mp3
 
+<img src='{{ site.url }}{{ site.baseurl }}/assets/images/episode-halloween-square.jpg' width='100%'/>
+
 <a href="https://itunes.apple.com/us/podcast/paudeville/id1450915591">
 	<img src='{{ site.url }}{{ site.baseurl }}/assets/images/US_UK_Apple_Podcasts_Listen_Badge_RGB_140x34.png' width='140px' height='34' alt='Listen on Apple Music'/>
 </a>
