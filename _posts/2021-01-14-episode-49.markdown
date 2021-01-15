@@ -8,7 +8,7 @@ itunes_title			: "D and D and P-A-U-D-E-V-I-L-L-E, Time Out"
 season_number			: 2
 episode_number			: 49
 episode_type			: full
-episode_keys			: "kids,music,family,variety show,d&d,rpg,ttrpg,dungeons and dragons,ska"
+episode_keys			: "kids,music,family,variety show,dnd,rpg,ttrpg,dungeons and dragons,ska"
 
 header                  : 
   image                 : "/assets/images/new-header copy.jpg"
@@ -26,7 +26,7 @@ podcast_guid            : episode-49/
 share                   : true
 published               : true 
 ---
-We're embarking on a new adventure this time! We're playing D&D for realsies even though neither of us really know what we're doing. And you know what? It's gonna be great.
+We're embarking on a new adventure this time! We're playing Dungeons and Dragons for realsies even though neither of us really know what we're doing. And you know what? It's gonna be great.
 
 Our vintage ad this week is for Barbasol. Put it all over your face and go outside!
 
