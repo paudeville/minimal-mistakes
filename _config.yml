@@ -295,7 +295,7 @@ defaults:
       author_profile: true
 
 # Podcast Feed Info
-podcast_site: https://paudeville.com/
+podcast_site: https://paudeville.com
 podcast_url: https://paudeville.com/podcast-feed
 podcast_album_art: /assets/images/logo_2000x2000.jpg
 podcast_title: Paudeville
