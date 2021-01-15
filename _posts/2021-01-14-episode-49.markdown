@@ -2,7 +2,7 @@
 layout                  : posts
 title                   : "Episode 49: D&D&P-A-U-D-E-V-I-L-L-E, Time Out"
 rss_title               : "49: D&D&P-A-U-D-E-V-I-L-L-E, Time Out"
-date                    : 2021-01-14 19:30:00
+date                    : 2021-01-14 12:30:00
 
 itunes_title			: "D&D&P-A-U-D-E-V-I-L-L-E, Time Out"
 season_number			: 2
